@@ -1,46 +1,15 @@
-# SUN TZU
+# SUN TZU - A ARTE DA GUERRA
 
-A ARTE DA GUERRA
-TRADUZIDO DO CHINÊS PARA O FRANCÊS
-PELO PADRE AMIOT EM 1772
-TRADUZIDO DO FRANCÊS POR
-SUELI BARROS CASSAL
+*TRADUZIDO DO CHINÊS PARA O FRANCÊS PELO PADRE AMIOT EM 1772*
+*TRADUZIDO DO FRANCÊS (L'arl de Ia guerre) POR SUELI BARROS CASSAL*
 
+[TOC]
 
-Coleção L&PM Pocket, vol. 207
-Título original: L' arl de Ia guerre
-Tradução: Sueli Barros Cassal
-Capa: Ivan Pinheiro Machado
-Revisão: Renato Deitas
-Produção: Já Saldanha e Lúcia Bohrer
-ISBN: 85.254.1059-4
-T999a Tzu, Sun
+## Prefácio
 
+### O mais antigo tratado militar do mundo
 
-A arte da guerra / Sun Tzu; tradução de Sueli
-Barros Cassal. -- Porto Alegre: L&PM, 2006.	
-152p 18 cm (Coleção L&PM Pocket)
-
-Estratégia militar-Guerra. 2.Guerra-Estratégia
-militar. 1. Título. 11.Série.
-CDU 335.4
-Catalogação elaborada por lzabel A. Medo, CRB 10/329.
-© L&PM Editores, 2000
-Todos os direitos desta edição reservados à L&PM Editores
-PORTOALEGRE:Rua Comendador Coruja 314, loja 9 - 90220-180
-Floresta - RS / Fone: 51.3225.5777
-PEDIDOS& DEPTO.COMERCIALv:endas@lpm.com.br
-FALE CONOSCO:info@lpm.com.br
-www.lpm.com.br
-Impresso no Brasil
-Outono de 2006
-
-# A ARTE DA GUERRA
-
-## O MAIS ANTIGO TRATADO MILITAR DO MUNDO
-
-Pouco importa saber se Sun Tzu existiu ou é uma figura lendária. O fato é que um texto que remonta à turbulenta época dos Estados Guerreiros da China, há quase dois mil anos, chegou até nós, trazendo as ideias de um filosofo estrategista que certamente comandou e venceu muitas batalhas, se acreditarmos no comentarista Se-Ma Ts’ien, do século I a.C, cujo texto
-apresentamos mais adiante.
+Pouco importa saber se Sun Tzu existiu ou é uma figura lendária. O fato é que um texto que remonta à turbulenta época dos Estados Guerreiros da China, há quase dois mil anos, chegou até nós, trazendo as ideias de um filósofo estrategista que certamente comandou e venceu muitas batalhas, se acreditarmos no comentarista Se-Ma Ts’ien, do século I a.C, cujo texto apresentamos mais adiante.
 
 A tradução que ora publicamos é uma da muitas versões existentes. Ela foi feita pelo missionário jesuíta Amiot em 1772, sendo a primeira versão que se conhece no Ocidente. O Padre Amiot deixou de lado os comentários que foram acrescentados aos versículos, ao longo do tempo, por vários comentadores chineses. A tradução para o inglês de Lionel Giles e Samuel B. Griffith contemplam esses comentários – lendas, fábulas, exemplos históricos, explicações, interpretações – que estabelecem um dialogo hipertextual com Sun Tzu.
 
@@ -50,22 +19,23 @@ Embora as táticas bélicas tenham mudado desde a época de Sun Tzu, esse tratad
 
 Hoje, o livro parece destinado a secundar outra guerra: a das empresas no mundo dos negócios. Assim, o livro migrou das estantes do estrategista para as do economista e do administrador.
 
-Qual é a originalidade, desse que é o mais antigo tratado de guerra? É que é melhor ganhar a guerra antes mesmo de desembainhar a espada. O inimigo não deve ser aniquilado, mas, de preferência, deve ser vencido quando seus domínios ainda estiverem intatos. Muitas vezes, a vitória arduamente conquistada guarda um sabor amargo de derrota, mesmo para os próprios
-vencedores.
+Qual é a originalidade, desse que é o mais antigo tratado de guerra? É que é melhor ganhar a guerra antes mesmo de desembainhar a espada. O inimigo não deve ser aniquilado, mas, de preferência, deve ser vencido quando seus domínios ainda estiverem intatos. Muitas vezes, a vitória arduamente conquistada guarda um sabor amargo de derrota, mesmo para os próprios vencedores.
+
 Com seu caráter sentencioso, Sun Tzu forja a figura de um general super homem cujas qualidades são o segredo, a dissimulação, a astúcia e a surpresa. Esse general deve evitar cinco defeitos básicos: a precipitação, a hesitação, a irascibilidade, a preocupação com as aparências e a excessiva complacência. Para vencer, deve conhecer perfeitamente a terra (a geografia, o terreno) e os homens (tanto a si mesmo quanto o inimigo). O resto é uma questão de cálculo. Eis a arte da guerra.
 
 Em tempos de guerras generalizadas e sub-reptícias como os que vivemos (da guerra dos sexos à das empresas), vale a lição do livro: a primeira batalha que devemos travar é com nós mesmos.
 Lendo o trecho a seguir em que Sun Tzu interpela o general, há ou não motivos para refletirmos?
 
-“Lembra-te que defendes não interesses pessoais, mas os do teu país. Tuas virtudes e teus vícios, tuas qualidades e teus defeitos influem igualmente no ânimo daqueles que representas. Teus menores erros têm sempre nefastas conseqüências. Geralmente, os grandes são irreparáveis e funestos. É difícil sustentar um reino que terás levado à beira da ruína. Depois de destruí-lo, é
+> Lembra-te que defendes não interesses pessoais, mas os do teu país. Tuas virtudes e teus vícios, tuas qualidades e teus defeitos influem igualmente no ânimo daqueles que representas. Teus menores erros têm sempre nefastas conseqüências. Geralmente, os grandes são irreparáveis e funestos. É difícil sustentar um reino que terás levado à beira da ruína. Depois de destruí-lo, é impossível reerguê-lo. Tampouco se ressuscitam os mortos.
 
-impossível reerguê-lo. Tampouco se ressuscitam os mortos.”
-*Sueli Barros Cassal* 
+*Sueli Barros Cassal*
 
+### Vida de Sun Tzu
 
-## VIDA DE SUN TZU, SEGUNDO O COMENTARISTA SE-MA TS’IEN *(CERCA DE 100 A. C.)*
+*SEGUNDO O COMENTARISTA SE-MA TS’IEN (CERCA DE 100 A. C.)*
 
-Sun Tzu, súdito do rei de Wu, foi o homem mais versado que jamais existiu na arte militar. A obra que escreveu e os notáveis feitos que praticou são uma prova de sua profunda capacidade e de sua experiência bélica. Antes mesmo de ter conquistado a grande reputação que o distinguiu em todas as províncias que integram hoje o Império, seu mérito era conhecido me todos os lugares adjacentes à sua pátria.
+Sun Tzu, súdito do rei de Wu, foi o homem mais versado que jamais existiu na arte militar. A obra que escreveu e os notáveis feitos que praticou são uma prova de sua profunda capacidade e de sua experiência bélica. Antes mesmo de ter conquistado a grande reputação que o distinguiu em todas 
+as províncias que integram hoje o Império, seu mérito era conhecido me todos os lugares adjacentes à sua pátria.
 
 O rei Wu tinha algumas contendas com o rei Tchu. Eles estavam prestes a se engalfinharem numa guerra aberta e, de ambas as partes, corriam os preparativos. Sun Tzu não quis ficar de braços cruzados. Persuadido de que o personagem de espectador não fora talhado para si, apresentou-se ao rei de Wu, solicitando ingresso em suas hostes. O rei, feliz por um homem de tal mérito tomar seu partido, acolheu-o de bom grado. Quis vê-lo e interrogá-lo pessoalmente.
 
@@ -90,613 +60,434 @@ Veremos - disse o rei, sorrindo -, veremos, Sun Tzu, se manténs a tua palavra. 
 
 O general, sentindo todo o ridículo do papel que lhe impingiam, não se desconcertou, mostrando-se, ao contrário, muito satisfeito da honra que o reilhe fazia, não somente permitindo que visse suas mulheres, mas ainda colocando-as sob seu comando.
 
-- Executarei a tarefa a contento, Majestade - replicou ele, com
-  segurança. - Espero que, em breve, Vossa Majestade tenha ocasião de
-  rejubilar-se com os meus serviços, convencendo-se de que Sun Tzu não é
-  homem de se vangloriar.
-  O rei retirou-se para seus aposentos, e o guerreiro não pensou em mais
-  nada senão em executar a tarefa. Solicitou armas e todo o equipamento militar
-  para seus soldados. Depois de tudo pronto, conduziu suas tropas a uma das
-  alas do palácio que lhe pareceu mais adequada a seus propósitos.
-  Então, Sun Tzu dirigiu a palavra às favoritas:
-- Vocês estão sob meu comando e sob minhas ordens. Devem me
-  escutar atentamente e me obedecer em tudo o que ordenar. Essa é a regra 
-  9
-  militar fundamental. Evitem infringi-Ia. A partir de amanhã, farão o exercício
-  diante do rei, e deverão estar prontas.
-  Depois dessas palavras, cingiu-as com o boldrié e lhes colocou uma
-  alabarda na mão. Dividiu-as em dois grupos, colocando na frente as favoritas.
-  Depois desse arranjo, começou as instruções nestes termos:
-- Sabem distinguir a frente das costas, e a mão direita da mão
-  esquerda? Respondam!
-  Só recebeu como resposta algumas gargalhadas. Mas como
-  permanecesse silencioso e sério, as concubinas responderam em uníssono:
-- Sim, sem dúvida.
-- Assim, prestem muita atenção ao que vou lhes dizer. Quando o tambor
-  der um único golpe, permaneçam na posição atual, prestando atenção ao que
-  está em sua frente. Ouvindo dois golpes, virem-se, de forma que a frente ocupe
-  o lugar da mão direita. Quando soarem três golpes, virem-se de forma que a
-  frente ocupe o lugar da mão esquerda. Quando o tambor der quatro golpes,
-  devem virar-se e a frente deve ocupar o lugar das costas. O que acabo de dizer
-  pode não ter ficado claro. Repito: Um único golpe de tambor significa "Sentido!"
-  Dois golpes, "direita, volver". Três golpes, "esquerda, volver". Quatro golpes,
-  "meia volta". Repetindo; a primeira ordem que darei será esta: primeiramente
-  farei soar um único golpe. A esse sinal, ficarão prontas para o que vou ordenar.
-  Alguns momentos depois, soarei dois golpes: então, todas juntas, virarão à
-  direita, com gravidade. Em seguida, farei soar quatro golpes, e completarão a
-  meia volta. Depois, retomarão à posição inicial e, como antes, ouvirão um único
-  golpe. Compenetrem-se. Em seguida, farei soar, não dois, mas três golpes, e
-  vocês volverão à esquerda. Ouvindo quatro golpes, completarão a meia volta.
-  Compreenderam bem o que eu disse? Se têm alguma dificuldade, não hesitem
-  em me comunicar e tentarei solucioná-Ia.
-- Estamos prontas, responderam as mulheres.
-- Assim sendo - retomou Sun Tzu -, vou começar. Não se esqueçam de
-  que o som do tambor substitui a voz do general, pois é por seu intermédio que
-  ele lhes dá ordens.
-  Sun Tzu repetiu essa instrução três vezes. Depois, ordenou de novo seu
-  pequeno exército. Em seguida, fez soar um golpe de tambor. A esse barulho,
-  todas as princesas começaram a rir. Ele soou duas vezes, elas riram mais 
-  10
-  forte. O general, sem perder a compostura, dirigiu-lhes a palavra nestes
-  termos:
-- Pode ser que não tenha me explicado claramente. Se aconteceu isso,
-  a culpa é minha. Vou tentar remediar o fato, falando-Ihes de uma forma que
-  esteja a seu alcance.
-  Em seguida, repetiu três vezes a mesma instrução, usando outros
-  termos.
-- Quero ver se agora serei melhor obedecido.
-  Ele fez soar o tambor. Soaram dois golpes. Em virtude da situação
-  estranha e grave em que se encontravam, as mulheres esqueceram que era
-  preciso obedecer. Após terem tentado controlar o riso que as sufocava,
-  soltaram as mais vivas gargalhadas.
-  Sun Tzu não se desconcertou. No mesmo tom que lhes tinha falado
-  antes, disse-Ihes:
-- Se eu não tivesse me explicado bem, ou se vocês não me tivessem
-  afirmado, em coro, que tinham compreendido, não seriam culpadas. Mas lhes
-  falei claramente, como vocês mesmas admitiram. Por que não obedeceram?
-  Vocês merecem punição, e punição militar. No universo militar, aquele que não
-  obedece às ordens do general merece a morte. Vocês morrerão.
-  Depois desse preâmbulo, Sun Tzu ordenou que duas mulheres
-  matassem as favoritas, que estavam à sua frente. No mesmo momento, um
-  dos guardas das mulheres, percebendo que o guerreiro não estava brincando,
-  correu para avisar o rei a respeito do que estava acontecendo. O rei despachou
-  alguém para proibir que Sun Tzu matasse as duas favoritas, sem as quais não
-  podia viver.
-  O general escutou com respeito o emissário, mas não acedeu ao pedido
-  do rei.
-- Diga ao rei - respondeu - que Sun Tzu o considera bastante sensato e
-  justo para pensar que ele pudesse ter mudado de idéia, e queira realmente que
-  eu aceda à contra-ordem recente. O príncipe faz a lei, mas não poderia dar
-  ordens que aviltassem a dignidade com que me revestiu. Ele me encarregou de
-  treinar suas cento e oitenta mulheres. Sagrou-me seu general: cabe a mim
-  fazer o resto.Elas me desobedeceram, por isso morrerão. 
-  11
-  Mal tendo pronunciado essas últimas palavras, tirou o sabre e, com o
-  mesmo sangue frio que mostrara até então, decapitou as duas favoritas, que
-  comandavam as outras. Imediatamente, substituiu-as por outras, fez soar o
-  tambor, como combinado. E, como se tivessem durante toda a vida exercido o
-  ofício da guerra, as mulheres manobraram em silêncio e de forma impecável.
-  Sun Tzu dirigiu-se ao emissário do rei:
-- Vá avisar o rei - disse - que suas mulheres sabem fazer o exercício;
-  que posso levá-Ias à guerra, fazer com que enfrentem todo tipo de perigo, até
-  mesmo atravessar a água e o fogo.
-  O rei, informado de tudo, ficou desesperado.
-- Perdi - disse, suspirando - o que mais amava no mundo. Que esse
-  estranho se retire em seu país. Não quero saber dele nem de seus serviços.
-  Então, Sun Tzu disse:
-- O rei ama palavras vazias. Não é capaz de juntar o gesto à palavra.
-  O tempo e as circunstâncias fizeram com que o rei fizesse o luto. Os
-  inimigos estavam prestes a esmagá-Io. Então, convocou novamente Sun Tzu,
-  nomeou-o general de seus exércitos e, por seu intermédio, destruiu o reinado
-  de Tchu. Os vizinhos que antes mais o inquietavam, cheios de temor à menção
-  dos belos feitos de Sun Tzu, não hesitaram em pedir proteção a um príncipe
-  que tinha tal homem a seu serviço. 
-  12
-  CAPÍTULO I
-  DA AVALIAÇÃO
-  Sun Tzu diz: A guerra tem importância crucial para o Estado. É o reino
-  da vida e da morte. Dela depende a conservação ou a ruína do império. Urge
-  bem regulá-Ia. Quem não reflete seriamente sobre o assunto evidencia uma
-  indiferença condenável pela conservação ou pela perda do que mais se preza.
-  Isso não deve ocorrer entre nós.
-  A arte da guerra implica cinco fatores principais, que devem ser o objeto
-  de nossa contínua meditação e de todo o nosso cuidado, como fazem os
-  grandes artistas ao iniciarem uma obra-prima. Eles têm sempre em mente o
-  objetivo a que visam, e aproveitam tudo o que vêem e ouvem, esforçando-se
-  para adquirir novos conhecimentos e todos os subsídios que possam conduzilos
-  ao êxito.
-  Se quisermos que a glória e o sucesso acompanhem nossas armas,
-  jamais devemos perder de vista os seguintes fatores: a doutrina, o tempo, o
-  espaço, o comando, a disciplina.
-  A doutrina engendra a unidade de pensamento; inspira-nos uma mesma
-  maneira de viver e de morrer, tornando-nos intrépidos e inquebrantáveis diante
-  dos infortúnios e da morte.
-  Se conhecermos bem o tempo, não ignoraremos os dois grandes
-  princípios yin e yang, mediante os quais todas as coisas naturais se formam e
-  dos quais todos os elementos recebem seus mais diversos influxos.
-  Apreciaremos o tempo da interação desses princípios, para a produção do frio,
-  do calor, da bonança ou da intempérie.
-  O espaço, como o tempo, não é menos digno de nossa atenção. Se o
-  estudarmos bem, teremos a noção do alto e do baixo; do longe e do perto; do
-  largo e do estreito; do que permanece e do que não cessa de fluir.
-  Entendo por comando a eqüidade, o amor pelos subordinados e pela
-  humanidade em geral. O conhecimento de todos os recursos, a coragem, a
-  determinação e o rigor são as qualidades que devem caracterizar aquele que
-  investe a dignidade de general. São virtudes necessárias que devemos adquirir 
-  13
-  a qualquer preço. Somente elas podem tornar-nos aptos a marchar dignamente
-  à frente dos outros.
-  Aos conhecimentos acima mencionados convém acrescentar o de
-  disciplina. Possuir a arte de ordenar as tropas; não ignorar nenhuma das leis
-  da hierarquia e fazer com que sejam cumpridas com rigor; estar ciente dos
-  deveres particulares de cada subalterno; conhecer os diferentes caminhos que
-  levam a um mesmo lugar; não desdenhar o conhecimento exato e detalhado de
-  todos os fatores que podem intervir; e informar-se de cada um deles em
-  particular. Tudo isso somado constitui uma doutrina, cujo conhecimento prático
-  não deve escapar à sagacidade nem à atenção de um general.
-  Se tu - que a escolha do príncipe colocou à testa dos exércitos - calcares
-  teus fundamentos de ciência militar sobre os cinco princípios que acabo de
-  estabelecer, a vitória será teu galardão. Em compensação, sofrerás as mais
-  abjetas derrotas se, por ignorância ou presunção, vieres a omiti-Ios ou a rejeitá-
-  Ios.
-  Esses conhecimentos te permitirão discernir, entre os príncipes que
-  governam o mundo, aquele que ostenta mais doutrina e virtudes. Conhecerás
-  grandes generais nos mais diversos reinos, de forma que poderás prever com
-  segurança qual dos adversários será vencedor; e se tiveres que intervir na
-  contenda, poderás certamente gabar-te da vitória.
-  Esses mesmos conhecimentos farão com que prevejas os momentos
-  mais propícios, pois o tempo e o espaço devem conjugar-se para orientar o
-  movimento e os itinerários das tropas, cujas marchas regularás com precisão.
-  Jamais comeces ou termines uma campanha fora do momento azado.
-  Conhece o ponto forte e o fraco tanto dos que forem confiados a teus cuidados
-  quanto dos inimigos. Informa-te da quantidade e do estado em que se
-  encontram as munições e os víveres dos dois exércitos. Distribui recompensas
-  com liberalidade, mas com critério. Não poupes castigos, quando necessários.
-  Conquistados por tuas virtudes e tuas capacidades, os oficiais colocados
-  sob tuas ordens te servirão tanto por prazer quanto por dever. Eles se
-  espelharão em teu exemplo; o exemplo deles servirá para os subordinados, e
-  os soldados rasos, por sua vez, tudo farão para te assegurar o mais glorioso
-  sucesso. 
-  14
-  Estimado, respeitado, amado pelos teus, os povos vizinhos virão
-  espontaneamente juntar-se aos estandartes do príncipe que serves, quer para
-  viver sob suas leis, quer simplesmente para obter proteção.
-  Ciente de tuas capacidades e limitações, não inicies nenhuma
-  empreitada que não possas levar a cabo. Decifra, com a mesma argúcia, o
-  longe e o perto, para que o que se desenrola sob teus olhos seja idêntico ao
-  que deles está mais recôndito.
-  Aproveita a dissensão entre os inimigos para atrair os descontentes para
-  o teu campo, não regateando promessas, oferendas ou recompensas.
-  Se teus inimigos forem mais poderosos e mais fortes, não os ataques.
-  Evita cuidadosamente o que pode redundar num conflito generalizado.
-  Dissimula sempre, com extremo cuidado, o estado de tuas forças.
-  Haverá ocasiões em que te rebaixarás, e outras em que simularás
-  medo. Finge ser fraco a fim de que teus inimigos, abrindo a porta para a
-  presunção e para o orgulho, venham atacar-te em hora errada, ou sejam
-  surpreendidos e derrotados vergonhosamente. Age de tal forma que teus
-  inferiores jamais descubram teus projetos. Mantém tuas tropas sempre de
-  prontidão, ocupadas e em movimento, para evitar que uma infame ociosidade
-  as quebrante.
-  Se vês algum interesse em meus planos, cria situações que contribuam
-  para sua realização. Entendo por "situação" que o general aja eficientemente,
-  em harmonia com o que é vantajoso e, dessa forma, demonstre controle e
-  equilíbrio.
-  Toda campanha militar repousa na dissimulação. Finge desordem.
-  Jamais deixes de oferecer um engodo ao inimigo, para ludibriá-lo. Simula
-  inferioridade para encorajar sua arrogância. Atiça sua raiva para melhor
-  mergulhá-lo na confusão. Sua cobiça o arremeterá contra ti e, então, ele se
-  estilhaçará.
-  Apresta os preparativos quando teus adversários se concentrarem.
-  Quando forem poderosos, evita-os.
-  Mergulha o adversário em inextricáveis provações e prolonga seu
-  esgotamento, mantendo-te a distância. Procura fortificar tuas alianças externas
-  e consolidar tuas posições internas. 
-  15
-  Quão lamentável é arriscar tudo em um único combate, negligenciando a
-  estratégia vitoriosa, e fazer com que o destino de tuas armas dependa de uma
-  única batalha!
-  Quando o inimigo estiver unido, divide-o. Ataca-o, quando ele estiver
-  despreparado. Irrompe onde ele menos espera. Tais são as estratégias da
-  vitória. Mas toma cuidado de não te servires delas antes da hora.
-  O general deve basear-se em avaliações prévias. Elas apontam para a
-  vitória quando demonstram que sua força é superior à do inimigo. Indicam a
-  derrota quando demonstram inferioridade.
-  Com numerosos cálculos, pode-se obter a vitória. Teme quando os
-  cálculos forem escassos. E quão poucas chances de vencer tem aquele que
-  nunca calcula!
-  Graças a esse método, eu, Sun Tzu, avalio a situação e o desfecho se
-  perfilará claramente. 
-  16
-  CAPÍTULO II
-  DO COMANDO DA GUERRA
-  Sun Tzu diz: Suponho que comeces tua campanha com um exército de
-  cem mil homens, que dispões de dois mil carros, mil destinados à marcha, e os
-  outros reservados para o transporte de suprimentos. Ademais, transportas com
-  cuidado tudo o que pode servir para o reparo de armas e carros. Suponho que
-  tens víveres e munições suficientes, que à tua volta haja, em toda a parte,
-  provisões para a manutenção do exército. Suponho ainda que os artesãos e
-  outros homens que não pertencem ao corpo dos soldados já o precederam ou
-  marcham em teu séquito. Suponho também que os diferentes suprimentos,
-  tanto para uso bélico quanto pessoal, estejam permanentemente ao abrigo da
-  intempérie e de acidentes imprevistos.
-  Suponho que tens mil onças de prata para distribuir diariamente às
-  tropas, cujo soldo é sempre pago em dia e na mais rigorosa exatidão.
-  Nesse caso, podes avançar direto contra o inimigo. Atacá-Io e vencê-Io
-  será para ti a mesma coisa.
-  Digo mais: Não adies o momento do combate, nem esperes que tuas
-  armas se enferrujem e o fio de tuas espadas se embote. A vitória é o principal
-  objetivo da guerra.
-  Tratando-se de tomar uma cidade, apressa-te em sitiá-Ia, concentra
-  nisso todas as tuas forças. Precipita-te. Se falhares, tuas tropas correm o risco
-  de ficar muito tempo em campanha, o que será uma fonte de funestos
-  infortúnios.
-  Os cofres do príncipe que serves se esvaziarão, tuas armas - embotadas
-  pela ferrugem - não poderão mais servir, o entusiasmo de teus soldados
-  arrefecerá, sua coragem e força esmorecerão, as provisões se esgotarão e,
-  talvez, tu mesmo fiques reduzido a uma situação desesperadora.
-  Informados do estado dramático em que te encontras, teus inimigos
-  emergirão lépidos, arremeterão contra ti e te esmagarão. Embora até então
-  tenhas sido respeitado, doravante tua reputação estará maculada. Apesar de já
-  teres dado mostras brilhantes de valor, o último revés apagará toda a glória
-  acumulada. 
-  17
-  Repito: não poderás manter as tropas em campanha por muito tempo,
-  sem acarretar grande prejuízo ao Estado e sem dar um golpe mortal em tua
-  própria reputação.
-  Aqueles que dominam os verdadeiros princípios da arte militar não
-  atacam duas vezes. Tudo termina já na primeira campanha. Não consomem
-  suprimentos em vão, durante anos consecutivos. Fazem com que suas tropas
-  subsistam às expensas do inimigo e poupam ao Estado os imensos gastos em
-  que este incorre quando tem que transportar provisões para lugares distantes.
-  Tais generais não ignoram - e tu também deves estar ciente disso - que
-  nada exaure mais um reino do que as despesas de guerra pois, quer o exército
-  esteja nas fronteiras, quer em países longínquos, o povo sempre é penalizado.
-  O custo de vida aumenta, as mercadorias escasseiam, e mesmo aqueles que,
-  em tempos de paz, usufruem uma boa situação, em breve já não terão com o
-  quê comprar.
-  Ávido, o príncipe recolhe o tributo em espécie que cada família lhe deve;
-  e a miséria vai se espraiando do seio das cidades até o campo.
-  Das dez partes do necessário, tem-se que abrir mão de sete. Todos têm
-  seu quinhão nos males comuns, inclusive o soberano. Couraças, elmos,
-  flechas, arcos, escudos, carros, lanças, dardos, tudo isso estragará. Os
-  cavalos, e até os bois que lavram as terras, definharão e, das dez partes de
-  sua despesa ordinária, será constrangido a eliminar seis.
-  Visando prevenir todos esses desastres, um hábil general faz tudo para
-  abreviar as campanhas, e para abastecer-se às expensas do inimigo, custe o
-  que custar.
-  Se o exército inimigo tem uma medida de grão em seu campo, dispõe de
-  vinte no teu. Se teu inimigo tem cento e vinte libras de forragem para seus
-  cavalos, dispõe de duas mil e quatrocentas para os teus. Não percas nenhuma
-  ocasião de importuná-lo. Faz com que ele pereça à míngua. Encontra meios
-  para irritá-lo, para que ele caia em alguma armadilha. Diminui-lhe ao máximo
-  as forças, desorientando-o, dizimando-lhe, de vez em quando, alguns
-  soldados, saqueando seus comboios, seus equipamentos e tudo o que te
-  poderá ser útil.
-  Quando tuas tropas tiverem tomado do inimigo mais de dez carros,
-  recompensa prodigamente tanto aqueles que conduziram a operação quanto 
-  18
-  os que a executaram. Junta esses carros aos teus, depois de eliminar as
-  insígnias inimigas que por ventura nele estejam gravadas.
-  Trata bem os prisioneiros, alimenta-os como se fossem teus próprios
-  soldados. Na medida do possível, faz com que se sintam melhor sob tua égide
-  do que em seu próprio campo, ou mesmo em sua pátria. Jamais os deixes
-  ociosos. Tira partido de seus serviços, com as devidas precauções.
-  Resumindo: conduz-te em relação a eles como se fossem tropas que se
-  tivessem engajado livremente sob teus estandartes. Eis o que chamo ganhar
-  uma batalha e tornar-se mais forte.
-  Se fizeres exatamente o que acabo de indicar, os sucessos
-  acompanharão todos os teus passos, em toda a parte serás vencedor.
-  Pouparás a vida de teus soldados, fortalecerás os antigos domínios de teu
-  país, acrescentando-lhe novos, aumentarás o esplendor e a glória do Estado e,
-  tanto o príncipe quanto os súditos, te serão gratos pela doce tranqüilidade na
-  qual correm doravante os seus dias.
-  Na guerra, o essencial é a vitória e não campanhas prolongadas.
-  O general que domina a arte da guerra é o árbitro do destino do povo e
-  dos rumos da vitória.
-  Que objetos podem ser mais dignos de tua atenção e de todos os teus
-  esforços? 
-  19
-  CAPÍTULO lII
-  DA ARTE DE VENCER SEM DESEMBAINHAR A ESPADA
-  Sun Tzu diz: Eis algumas máximas de que deves impregnar-te antes de
-  pensar em sitiar cidades ou ganhar batalhas.
-  Conservar os domínios e todos os direitos do príncipe que serves deve
-  ser o primeiro de teus cuidados. Só deves ampliá-Ios, usurpando o território
-  inimigo, quando for imprescindível.
-  Deves ocupar-te principalmente em assegurar a tranqüilidade das
-  cidades de teu próprio país. Perturbar as cidades inimigas deve ser a hipótese
-  mais desfavorável.
-  Deves pensar em colocar ao abrigo todos os vilarejos amigos. Somente
-  a necessidade pode arrastar-te a irromper nos vilarejos Inimigos.
-  Deves impedir que os vilarejos e as choças dos camponeses sofram
-  qualquer dano. Só uma extrema penúria pode levar-te a saquear e a devastar
-  as instalações agrícolas de teus inimigos.
-  Deves almejar como aquilo que há de mais perfeito, conservar intatos os
-  domínios dos inimigos. Só deves destruí-Ias em caso de extrema necessidade.
-  Se um general age assim, sua conduta ombreará com a dos mais virtuosos
-  personagens. Ela se espelhará no Céu e na Terra, cujas obras buscam a
-  produção e a conservação e não a destruição.
-  Se essas máximas estiverem bem gravadas em teu coração, garanto o
-  teu sucesso.
-  Repito: a melhor política guerreira é tomar um Estado intato; uma política
-  inferior consiste em arruiná-Io.
-  É preferível aprisionar a destruir o exército inimigo; é melhor tomar um
-  batalhão intato do que fulminá-Io.
-  Cem combates tivesses que travar, cem vitórias seriam teu fruto.
-  Não procures vencer teus inimigos à custa de combates e de vitórias.
-  Esse é um caso em que o "bom" é melhor do que o "excelente". Quanto mais
-  te elevares acima do "bom", mais te aproximarás do "pernicioso" e do "ruim". 
-  20
-  É preferível subjugar o inimigo sem travar combate. Nesse caso, quanto
-  mais te elevares acima do bom, mais te aproximarás do incomparável e do
-  excelente.
-  Os grandes generais vencem descobrindo todos os artifícios do inimigo,
-  sabotando-Ihes os projetos, semeando a discórdia entre seus partidários,
-  mantendo-o sempre acossado, interceptando reforços estrangeiros, e
-  impedindo-o de tomar qualquer decisão mais vantajosa para ele.
-  Sun Tzu diz: é de suprema importância na guerra atacar a estratégia do
-  inimigo.
-  Sobressai-se em resolver as dificuldades quem as resolve antes que
-  apareçam.
-  Sobressai-se na conquista quem conquista o troféu antes que os
-  temores de seu inimigo se concretizem.
-  Ataca a estratégia do adversário na raiz. Depois, rompe suas alianças.
-  Em seguida, ataca seu exército.
-  A pior política consiste em atacar as cidades. Apenas consente nisso se
-  não houver outra saída. Pensa no longo tempo necessário para preparar
-  veículos, armas, equipamentos, e para construir rampas ao longo das
-  muralhas.
-  Se fores obrigado a sitiar uma cidade e a destruí-Ia, dispõe de tal sorte
-  teus veículos, escudos e todas as máquinas necessárias para o assalto, para
-  que tudo esteja pronto quando chegar a hora de atacar.
-  Age para que a rendição não se prolongue por mais de três meses.
-  Quando este prazo expirar, se ainda não tiveres atingido teus objetivos,
-  certamente terás cometido alguns erros. Empenha-te em repará-Ios.
-  Partindo para o assalto, à frente de tuas tropas, redobra os esforços.
-  Imita a vigilância, a diligência, o entusiasmo e a tenacidade das formigas.
-  Suponho que terás construído antecipadamente as trincheiras e outras
-  obras necessárias, que terás edificado fortes para descobrir o que se passa no
-  interior da cidade sitiada, e terás contornado todos os inconvenientes que tua
-  prudência te recomenda. Apesar de todas essas precauções, se de três partes
-  de teus soldados tiveres a infelicidade de perder uma, sem poderes alardear
-  vitória, convence-te de que não atacaste bem. 
-  21
-  Um hábil general jamais se encontrará reduzido a tais extremos. Ele
-  conhece a arte de humilhar os seus inimigos sem travar batalhas.
-  Sem derramar uma gota de sangue, sem mesmo desembainhar a
-  espada, consegue tomar as cidades.
-  Sem colocar os pés em reinos estrangeiros, descobre o meio de
-  conquistá-Ios.
-  Sem operações prolongadas e sem perder um tempo considerável à
-  testa de suas tropas, conquista uma glória imortal para seu príncipe,
-  assegurando a felicidade de seus compatriotas e fazendo com que o universo
-  lhe seja reconhecido pelo repouso e pela paz conquistados.
-  Esse é o alvo que todos os comandantes devem buscar
-  incessantemente e sem jamais esmorecer.
-  O objetivo de um general hábil é apoderar-se do reino inimigo quando
-  este está intato; assim suas tropas não se esgotarão e seu triunfo será
-  completo. Esta é a arte da estratégia vitoriosa.
-  Há uma infinidade de situações diferentes em que podes te encontrar
-  em relação ao inimigo. Nem todas poderiam ser previstas de antemão; logo,
-  evito maiores detalhes. Tua clarividência e tua experiência te sugerirão o que
-  deves fazer, à medida que as circunstâncias se apresentem. Entretanto, vou
-  dar-te alguns conselhos gerais, que poderás usar, se necessário.
-  Se fores dez vezes mais numeroso que o inimigo, cerca-o de todos os
-  lados; não deixes nenhuma passagem livre; age de forma que ele não possa
-  evadir-se para acampar em outra parte, nem receber qualquer socorro.
-  Se teu contingente for cinco vezes superior, dispõe teu exército de forma
-  que ele possa atacar pelos quatro flancos simultaneamente, no momento
-  oportuno.
-  Se tens o dobro da força do inimigo, contenta-te em dividir teu exército
-  em dois.
-  Mas se, em ambas as partes, a quantidade de guerreiros é a mesma, só
-  te resta aventurar-te ao combate.
-  Se fores inferior, fica alerta. O menor erro pode ser fatal. Tenta colocarte
-  a salvo, e evita, se possível, entrar em choque com o adversário. A
-  prudência e a firmeza de um punhado de pessoas pode conseguir extenuar e 
-  22
-  dominar mesmo um exército numeroso. Assim, és ao mesmo tempo capaz de
-  te proteger e de obter uma vitória completa.
-  Quem está à testa dos exércitos é o sustentáculo do Estado. Se agir
-  corretamente, o reino será próspero. Ao contrário, se o comandante não tiver
-  as qualidades necessárias para desempenhar dignamente seu cargo, o reino
-  sofrerá inelutavelmente as conseqüências e talvez fique à beira do abismo.
-  Um general só pode servir bem o Estado de um único modo, mas pode
-  arruiná-Io de diversas maneiras.
-  É preciso muito esforço e uma conduta calcada na bravura e na
-  prudência para ser vitorioso: um só passo em falso põe tudo a perder. Um
-  general pode cometer muitos erros. Se engajar as tropas no momento errado,
-  fará com que ataquem quando não convém. Se não tem um conhecimento
-  exato dos lugares onde deve conduzi-Ias; se lhes impõe acampamentos
-  desastrosos; se as cansa inutilmente; se ordena que retrocedam sem
-  necessidade; se ignora as necessidades dos que integram seu exército; se
-  desconhece a ocupação a que cada um se dedicava antes de se alistar, a fim
-  de tirar partido do talento individual de cada um; se desconhece o ponto forte e
-  o fraco de seus subordinados; se não conta com a fidelidade dos mesmos; se
-  não impõe a mais estrita disciplina; se carece do talento de bem governar; se é
-  irresoluto e vacilante nas ocasiões em que urge ter pulso firme; se não
-  recompensa adequadamente seus soldados quando de direito; se permite que
-  estes sejam humilhados sem motivo pelos oficiais; se não sabe impedir as
-  dissensões entre os chefes, um general que cometer tais erros tornará o
-  exército capenga, esgotará homens, víveres e o reino, e se tornará a vítima
-  infame de sua própria imperícia.
-  Sun Tzu diz: No comando dos exércitos há sete males cruciais:
-  I. Executar cegamente ordens tomadas na Corte, segundo o arbítrio
-  do príncipe, sem se ater às circunstâncias.
-  II. Tornar os oficiais confusos, despachando emissários que ignoram
-  os assuntos militares.
-  III. Misturar regras próprias à ordem civil e à ordem militar.
-  IV. Confundir o rigor necessário ao governo do Estado e a
-  flexibilidade que o comando das tropas requer.
-  V. Dividir a responsabilidade. 
-  23
-  VI. Disseminar a suspeita, que engendra a desordem: um exército
-  confuso conduz à vitória do inimigo.
-  VII. Aguardar ordens em todas as circunstâncias. Isso equivale a
-  esperar autorização de um superior para apagar o fogo: antes
-  que a ordem chegue, as cinzas já estarão frias. No entanto, está
-  escrito no código que se deve consultar o inspetor nesse assunto!
-  É como se, ao edificar uma casa na beira de uma estrada,
-  fôssemos pedir conselho aos passantes: o trabalho ainda não
-  estaria terminado.
-  Este é o meu ensinamento.
-  Nomear um general é da alçada do soberano; decidir uma batalha cabe
-  ao general. Um príncipe esclarecido deve escolher o homem que convém,
-  revesti-Io de responsabilidades e aguardar os resultados.
-  Para vencer os inimigos, cinco circunstâncias são necessárias:
-  I. Saber quando combater e quando bater em retirada.
-  II. Saber lidar com o pouco e o muito, segundo as circunstâncias.
-  III. Compor habilmente suas fileiras.
-  Mênsio diz: "O momento oportuno não é tão importante quanto as
-  vantagens do terreno; e tudo isso não é tão relevante quanto a
-  harmonia das relações humanas".
-  IV. Preparar-se, prudentemente, para afrontar o inimigo potencial.
-  Não prever, dando como pretexto a inferioridade do adversário, é
-  o maior dos crimes. Estar preparado, independente de qualquer
-  contingência, é a maior das virtudes.
-  V. Evitar as ingerências do soberano em tudo que executar, para a
-  glória de seus exércitos.
-  Esses são os cinco caminhos da vitória.
-  Conhece teu inimigo e conhece-te a ti mesmo; se tiveres cem combates
-  a travar, cem vezes serás vitorioso.
-  Se ignoras teu inimigo e conheces a ti mesmo, tuas chances de perder e
-  de ganhar serão idênticas.
-  Se ignoras ao mesmo tempo teu inimigo e a ti mesmo, só contarás teus
-  combates por tuas derrotas. 
-  24
-  CAPÍTULO IV
-  DA ARTE DE MANOBRAR AS TROPAS
-  Sun Tzu diz: Antigamente, os combatentes aguerridos primeiro se
-  tornavam invencíveis. Depois, aguardavam que o inimigo ficasse vulnerável e
-  jamais se engajavam em guerras que previam ter desfecho desfavorável.
-  Antes de iniciarem o combate, asseguravam-se da vitória. Se a ocasião
-  de investir contra o inimigo não era favorável, aguardavam tempos mais
-  propícios.
-  Tinham como princípio que só se pode ser vencido por erro próprio e
-  que só se atinge a vitória por erro do inimigo.
-  A garantia de nos tornarmos invencíveis está em nossas próprias mãos.
-  Tornar o inimigo vulnerável só depende dele próprio.
-  Conhecer os meios que asseguram a vitória não significa obtê-Ia.
-  Assim, os hábeis generais sabiam primeiramente o que deviam temer ou
-  esperar, e avançavam ou recuavam, lutavam ou se entrincheiravam, segundo o
-  conhecimento que tinham, tanto a respeito das próprias tropas quanto das do
-  inimigo. Acreditando-se superiores, não hesitavam em tomar a iniciativa.
-  Acreditando-se inferiores, batiam em retirada e ficavam na defensiva.
-  A invencibilidade está na defesa; a possibilidade de vitória, no ataque.
-  Quem se defende mostra que sua força é insuficiente; quem ataca,
-  mostra que é abundante.
-  A arte de manter-se na defensiva não iguala a de combater com
-  sucesso.
-  Os generais hábeis na defesa devem esconder-se no âmago da terra.
-  Os que querem brilhar no ataque devem elevar-se aos céus. Para colocar-se
-  na defensiva contra o inimigo, é preciso esconder-se no seio da terra, como os
-  veios d'água que não se sabe de onde manam e cuja ramificações são
-  insondáveis. Assim, ocultarás todas as tuas diligências, e serás impenetrável.
-  Aqueles que combatem devem elevar-se nas alturas; ou seja, devem combater
-  de tal forma que o universo inteiro vibre com o estrépito de sua glória.
-  Em ambos os casos, deve-se visar à própria integridade física. 
-  25
-  Deves procurar conhecer a arte de vencer dos que trilharam esse
-  caminho com honra. Querer suplantar a todos, e procurar requintar-se nas
-  artes militares, significa correr o risco de não igualar os grandes mestres,
-  significa expor-se a ficar infinitamente aquém pois, nesse caso, o ótimo é
-  inimigo do bom.
-  Conseguir vitórias por meio de combates foi considerado em todos os
-  tempos, pelo universo inteiro, como algo bom. Ouso dizer-te, todavia, que esse
-  é mais um caso em que o "excelente" geralmente é pior que o "ruim". Predizer
-  uma vitória que o vulgo pode prever, e ser considerado universalmente sábio,
-  não significa ter habilidade bélica. Pois não requer muita força levantar a
-  penugem dos coelhos no outono. Não são necessários olhos penetrantes para
-  distinguir o sol da lua. Nem se requer ouvido apurado para ouvir o ronco do
-  trovão. Nada mais natural, nada mais fácil, nada mais simples do que isso.
-  Os hábeis guerreiros não encontram dificuldades maiores do que estas
-  nos combates; eles agem de forma que vencem a batalha depois de terem
-  criado as condições apropriadas.
-  Eles prevêem todas as eventualidades. Conhecem a situação do
-  inimigo, conhecem-lhes as forças, e não ignoram o que podem fazer e até onde
-  podem ir. A vitória é uma decorrência natural desse saber.
-  Assim, as vitórias obtidas por um mestre na arte da guerra não lhe
-  garantiriam nem a reputação de sábio, nem o mérito de homem de valor.
-  O homem comum não compreende que uma vitória seja obtida antes
-  que a situação se cristalize.
-  Eis por que o artífice de tal conquista não se reveste, para o vulgo, de
-  nenhuma reputação de sagacidade. Antes que a lâmina de seu gládio se
-  manche de sangue, o Estado inimigo já está subjugado.
-  Antes de desfechar o combate, os mestres antigos procuravam humilhar
-  seus inimigos, mortificavam-nos, fatigavam-nos de mil maneiras. Seus próprios
-  acampamentos eram lugares sempre ao abrigo de toda surpresa, sempre
-  impenetráveis. Esses generais acreditavam que, para vencer, as tropas deviam
-  aspirar ao combate com entusiasmo, e estavam persuadidos que, mesmo
-  quando essas mesmas tropas buscavam com veemência a vitória, geralmente
-  eram vencidas. 
-  26
-  Por isso, com segurança, ousavam prever a vitória ou a derrota, antes
-  mesmo de terem dado um passo para conquistar a primeira ou evitar a última.
-  Assim eram os nossos ancestrais. Nada lhes era mais fácil do que
-  vencer. Não acreditavam que os elogios derrisórios, como "corajosos", "heróis"
-  ou "invencíveis", fossem um tributo que tivessem merecido. Atribuíam seu
-  sucesso ao cuidado extremo que tinham em evitar o menor deslize.
-  Não cometer erros significa que - faça o que fizer - o general hábil
-  conquistará a vitória. Ele conquista um inimigo já derrotado. Nos planos, jamais
-  um deslocamento inútil; na estratégia, jamais um passo em vão. O comandante
-  hábil assume uma posição tal que não pode sofrer nenhuma derrota; não
-  negligencia nenhuma circunstância que lhe garanta o controle do inimigo.
-  Um exército vitorioso ganha antes de ter deflagrado a batalha; um
-  exército fadado à derrota combate na esperança de ganhar.
-  Aqueles que são zelosos na arte da guerra cultivam o Tao e aderem à
-  sua doutrina; são, portanto, capazes de formular políticas de vitória.
-  Eles não permitem que as tropas mostrem uma confiança demasiado
-  cega, uma confiança que degenera em presunção. As tropas que sonham com
-  a vitória são tímidas, presunçosas ou debilitadas pela preguiça. Ao contrário,
-  aquelas que, sem pensar na vitória, exigem o combate, são tropas enrijecidas
-  no trabalho, aguerridas, destinadas a vencer.
-  Agora, eis os cinco elementos da arte da guerra:
-  I. A medida do espaço;
-  II. A avaliação das quantidades;
-  III. As regras de cálculo;
-  IV. As comparações;
-  V. As chances de vitória.
-  As medidas do espaço derivam do terreno;
-  as quantidades derivam da medida;
-  os números emanam das quantidades;
-  as comparações decorrem dos números,
-  e a vitória é o fruto das comparações.
-  É pela disposição das forças que um general vitorioso é capaz de levar
-  seus homens ao combate, soerguendo-os ao patamar de águas represadas
-  que, súbito liberadas, mergulham num abismo incomensurável. 
-  27
-  Tu, que estás à testa dos exércitos, deves tornar-te digno do ofício que
-  exerces. Avalia as medidas que contêm as quantidades, e as que determinam
-  as dimensões: lembra-te das regras de cálculo. Considera os efeitos da
-  balança. A vitória não é senão o fruto de um cálculo exato.
-  As considerações sobre as diferentes medidas te conduzirão ao
-  conhecimento do que a terra pode oferecer de útil para ti. Saberás o que ela
-  produz, e usufruirás sempre seus frutos; não ignorarás os diferentes caminhos
-  que terás que percorrer para atingir, de forma segura, o alvo fixado.
-  Pelo cálculo, estima se o inimigo pode ser atacado, e somente depois
-  mobiliza a população e recruta as tropas. Aprende a distribuir, de forma
-  eqüitativa, munições e provisões. Aprende a nunca cair nos excessos do
-  demais ou do muito pouco.
-  Enfim, se tiveres em mente as vitórias obtidas em épocas remotas, e
-  todas as circunstâncias que a acompanharam, não ignorarás os diversos usos
-  a que serviram, e saberás que vantagens ou prejuízos trouxeram aos próprios
-  vencedores.
-  Um Y ultrapassa um Tchu1
-  . Nos pratos de uma balança, o Y vence o
-  Tchu. Sê para teus inimigos o que o Y é para o Tchu.
-  Depois de uma primeira vantagem, não esmoreças nem dês a tuas
-  tropas um repouso precipitado. Empunha a espada com a mesma rapidez de
-  uma torrente que se precipita de um despenhadeiro. Que teu inimigo não tenha
-  tempo sequer de se dar conta do que está ocorrendo. E só recolhe os louros da
-  vitória quando a derrota completa do inimigo te colocar em condição de fazê-Io
-  com segurança, vagar e tranqüilidade.
+Executarei a tarefa a contento, Majestade - replicou ele, com segurança. - Espero que, em breve, Vossa Majestade tenha ocasião de rejubilar-se com os meus serviços, convencendo-se de que Sun Tzu não é homem de se vangloriar.
 
-1 Um Y pesa cerca de 700 gramas; um Tchu não atinge sequer um grama. 
-28
-CAPÍTULO V
-DO CONFRONTO DIRETO E INDIRETO
-Sun Tzu diz: Comandar muitos é o mesmo que comandar poucos. Tudo
-é uma questão de organização. Controlar muitos ou poucos é uma mesma e
+O rei retirou-se para seus aposentos, e o guerreiro não pensou em mais nada senão em executar a tarefa. Solicitou armas e todo o equipamento militar para seus soldados. Depois de tudo pronto, conduziu suas tropas a uma das alas do palácio que lhe pareceu mais adequada a seus propósitos.
+
+Então, Sun Tzu dirigiu a palavra às favoritas:
+
+Vocês estão sob meu comando e sob minhas ordens. Devem me escutar atentamente e me obedecer em tudo o que ordenar. Essa é a regra militar fundamental. Evitem infringi-Ia. A partir de amanhã, farão o exercício diante do rei, e deverão estar prontas.
+
+Depois dessas palavras, cingiu-as com o boldrié e lhes colocou uma alabarda na mão. Dividiu-as em dois grupos, colocando na frente as favoritas.
+
+Depois desse arranjo, começou as instruções nestes termos:
+
+Sabem distinguir a frente das costas, e a mão direita da mão esquerda? Respondam!
+Só recebeu como resposta algumas gargalhadas. Mas como permanecesse silencioso e sério, as concubinas responderam em uníssono:
+
+Sim, sem dúvida.
+
+Assim, prestem muita atenção ao que vou lhes dizer. Quando o tambor der um único golpe, permaneçam na posição atual, prestando atenção ao que está em sua frente. Ouvindo dois golpes, virem-se, de forma que a frente ocupe o lugar da mão direita. Quando soarem três golpes, virem-se de forma que a frente ocupe o lugar da mão esquerda. Quando o tambor der quatro golpes, devem virar-se e a frente deve ocupar o lugar das costas. O que acabo de dizer pode não ter ficado claro. Repito: Um único golpe de tambor significa "Sentido!" Dois golpes, "direita, volver". Três golpes, "esquerda, volver". Quatro golpes, "meia volta". Repetindo; a primeira ordem que darei será esta: primeiramente farei soar um único golpe. A esse sinal, ficarão prontas para o que vou ordenar.
+
+Alguns momentos depois, soarei dois golpes: então, todas juntas, virarão à direita, com gravidade. Em seguida, farei soar quatro golpes, e completarão a meia volta. Depois, retomarão à posição inicial e, como antes, ouvirão um único golpe. Compenetrem-se. Em seguida, farei soar, não dois, mas três golpes, e vocês volverão à esquerda. Ouvindo quatro golpes, completarão a meia volta.
+
+Compreenderam bem o que eu disse? Se têm alguma dificuldade, não hesitem em me comunicar e tentarei solucioná-Ia.
+
+Estamos prontas, responderam as mulheres.
+
+Assim sendo - retomou Sun Tzu -, vou começar. Não se esqueçam de que o som do tambor substitui a voz do general, pois é por seu intermédio que ele lhes dá ordens. Sun Tzu repetiu essa instrução três vezes. Depois, ordenou de novo seu pequeno exército. Em seguida, fez soar um golpe de tambor. A esse barulho, todas as princesas começaram a rir. Ele soou duas vezes, elas riram mais forte. O general, sem perder a compostura, dirigiu-lhes a palavra nestes
+termos:
+
+Pode ser que não tenha me explicado claramente. Se aconteceu isso, a culpa é minha. Vou tentar remediar o fato, falando-Ihes de uma forma que esteja a seu alcance. Em seguida, repetiu três vezes a mesma instrução, usando outros termos.
+
+Quero ver se agora serei melhor obedecido.
+Ele fez soar o tambor. Soaram dois golpes. Em virtude da situação estranha e grave em que se encontravam, as mulheres esqueceram que era preciso obedecer. Após terem tentado controlar o riso que as sufocava, soltaram as mais vivas gargalhadas. Sun Tzu não se desconcertou. No mesmo tom que lhes tinha falado antes, disse-Ihes:
+
+Se eu não tivesse me explicado bem, ou se vocês não me tivessem afirmado, em coro, que tinham compreendido, não seriam culpadas. Mas lhes falei claramente, como vocês mesmas admitiram. Por que não obedeceram? Vocês merecem punição, e punição militar. No universo militar, aquele que não obedece às ordens do general merece a morte. Vocês morrerão.
+
+Depois desse preâmbulo, Sun Tzu ordenou que duas mulheres matassem as favoritas, que estavam à sua frente. No mesmo momento, um dos guardas das mulheres, percebendo que o guerreiro não estava brincando, correu para avisar o rei a respeito do que estava acontecendo. O rei despachou alguém para proibir que Sun Tzu matasse as duas favoritas, sem as quais não
+podia viver.
+
+O general escutou com respeito o emissário, mas não acedeu ao pedido do rei.
+
+Diga ao rei - respondeu - que Sun Tzu o considera bastante sensato e justo para pensar que ele pudesse ter mudado de idéia, e queira realmente que eu aceda à contra-ordem recente. O príncipe faz a lei, mas não poderia dar ordens que aviltassem a dignidade com que me revestiu. Ele me encarregou de treinar suas cento e oitenta mulheres. Sagrou-me seu general: cabe a mim fazer o resto.Elas me desobedeceram, por isso morrerão.
+
+Mal tendo pronunciado essas últimas palavras, tirou o sabre e, com o mesmo sangue frio que mostrara até então, decapitou as duas favoritas, que comandavam as outras. Imediatamente, substituiu-as por outras, fez soar o tambor, como combinado. E, como se tivessem durante toda a vida exercido o ofício da guerra, as mulheres manobraram em silêncio e de forma impecável.
+Sun Tzu dirigiu-se ao emissário do rei:
+
+Vá avisar o rei - disse - que suas mulheres sabem fazer o exercício; que posso levá-Ias à guerra, fazer com que enfrentem todo tipo de perigo, até mesmo atravessar a água e o fogo.
+
+O rei, informado de tudo, ficou desesperado.
+
+Perdi - disse, suspirando - o que mais amava no mundo. Que esse estranho se retire em seu país. Não quero saber dele nem de seus serviços.
+
+Então, Sun Tzu disse:
+
+O rei ama palavras vazias. Não é capaz de juntar o gesto à palavra.
+
+O tempo e as circunstâncias fizeram com que o rei fizesse o luto. Os inimigos estavam prestes a esmagá-Io. Então, convocou novamente Sun Tzu, nomeou-o general de seus exércitos e, por seu intermédio, destruiu o reinado de Tchu. Os vizinhos que antes mais o inquietavam, cheios de temor à menção dos belos feitos de Sun Tzu, não hesitaram em pedir proteção a um príncipe que tinha tal homem a seu serviço.
+
+## Capítulos
+
+### I - da avaliação
+
+Sun Tzu diz: A guerra tem importância crucial para o Estado. É o reino da vida e da morte. Dela depende a conservação ou a ruína do império. Urge bem regulá-Ia. Quem não reflete seriamente sobre o assunto evidencia uma indiferença condenável pela conservação ou pela perda do que mais se preza.
+
+Isso não deve ocorrer entre nós. A arte da guerra implica cinco fatores principais, que devem ser o objeto de nossa contínua meditação e de todo o nosso cuidado, como fazem os grandes artistas ao iniciarem uma obra-prima. Eles têm sempre em mente o objetivo a que visam, e aproveitam tudo o que vêem e ouvem, esforçando-se para adquirir novos conhecimentos e todos os subsídios que possam conduzilos ao êxito.
+
+Se quisermos que a glória e o sucesso acompanhem nossas armas,  jamais devemos perder de vista os seguintes fatores:
+
+- a doutrina,
+- o tempo,
+- o espaço,
+- o comando, e
+- a disciplina.
+
+A **doutrina** (道 - 'tao', *caminho* ) engendra a unidade de pensamento; inspira-nos uma mesma maneira de viver e de morrer, tornando-nos intrépidos e inquebrantáveis diante dos infortúnios e da morte.
+
+Se conhecermos bem o **tempo**, não ignoraremos os dois grandes princípios *yin* e *yang*, mediante os quais todas as coisas naturais se formam e dos quais todos os elementos recebem seus mais diversos influxos. Apreciaremos o tempo da interação desses princípios, para a produção do frio, do calor, da bonança ou da intempérie.
+
+O **espaço**, como o tempo, não é menos digno de nossa atenção. Se o estudarmos bem, teremos a noção do alto e do baixo; do longe e do perto; do largo e do estreito; do que permanece e do que não cessa de fluir.
+
+Entendo por **comando** a eqüidade, o amor pelos subordinados e pela humanidade em geral. O conhecimento de todos os recursos, a coragem, a determinação e o rigor são as qualidades que devem caracterizar aquele que investe a dignidade de general. São virtudes necessárias que devemos adquirir a qualquer preço. Somente elas podem tornar-nos aptos a marchar dignamente à frente dos outros.
+
+Aos conhecimentos acima mencionados convém acrescentar o de **disciplina**. Possuir a arte de ordenar as tropas; não ignorar nenhuma das leis da hierarquia e fazer com que sejam cumpridas com rigor; estar ciente dos deveres particulares de cada subalterno; conhecer os diferentes caminhos que levam a um mesmo lugar; não desdenhar o conhecimento exato e detalhado de todos os fatores que podem intervir; e informar-se de cada um deles em particular. Tudo isso somado constitui uma doutrina, cujo conhecimento prático não deve escapar à sagacidade nem à atenção de um general.
+
+Se tu - que a escolha do príncipe colocou à testa dos exércitos - calcares teus fundamentos de ciência militar sobre os cinco princípios que acabo de estabelecer, a vitória será teu galardão. Em compensação, sofrerás as mais abjetas derrotas se, por ignorância ou presunção, vieres a omiti-Ios ou a rejeitá-Ios.
+
+Esses conhecimentos te permitirão discernir, entre os príncipes que governam o mundo, aquele que ostenta mais doutrina e virtudes. Conhecerás segurança qual dos adversários será vencedor; e se tiveres que intervir na contenda, poderás certamente gabar-te da vitória.
+
+Esses mesmos conhecimentos farão com que prevejas os momentos mais propícios, pois o tempo e o espaço devem conjugar-se para orientar o movimento e os itinerários das tropas, cujas marchas regularás com precisão.
+
+Jamais comeces ou termines uma campanha fora do momento azado.
+
+Conhece o ponto forte e o fraco tanto dos que forem confiados a teus cuidados quanto dos inimigos.
+
+Informa-te da quantidade e do estado em que se encontram as munições e os víveres dos dois exércitos.
+
+Distribui recompensas com liberalidade, mas com critério.
+
+Não poupes castigos, quando necessários. Conquistados por tuas virtudes e tuas capacidades, os oficiais colocados sob tuas ordens te servirão tanto por prazer quanto por dever. Eles se espelharão em teu exemplo; o exemplo deles servirá para os subordinados, e os soldados rasos, por sua vez, tudo farão para te assegurar o mais glorioso sucesso.
+
+Estimado, respeitado, amado pelos teus, os povos vizinhos virão espontaneamente juntar-se aos estandartes do príncipe que serves, quer para viver sob suas leis, quer simplesmente para obter proteção.
+
+Ciente de tuas capacidades e limitações, não inicies nenhuma empreitada que não possas levar a cabo.
+
+Decifra, com a mesma argúcia, o longe e o perto, para que o que se desenrola sob teus olhos seja idêntico ao que deles está mais recôndito.
+
+Aproveita a dissensão entre os inimigos para atrair os descontentes para o teu campo, não regateando promessas, oferendas ou recompensas.
+
+Se teus inimigos forem mais poderosos e mais fortes, não os ataques.
+
+Evita cuidadosamente o que pode redundar num conflito generalizado.
+
+Dissimula sempre, com extremo cuidado, o estado de tuas forças.
+
+Haverá ocasiões em que te rebaixarás, e outras em que simularás medo. Finge ser fraco a fim de que teus inimigos, abrindo a porta para a presunção e para o orgulho, venham atacar-te em hora errada, ou sejam surpreendidos e derrotados vergonhosamente.
+
+Age de tal forma que teus inferiores jamais descubram teus projetos.
+
+Mantém tuas tropas sempre de prontidão, ocupadas e em movimento, para evitar que uma infame ociosidade as quebrante.
+
+Se vês algum interesse em meus planos, cria situações que contribuam para sua realização. Entendo por "situação" que o general aja eficientemente, em harmonia com o que é vantajoso e, dessa forma, demonstre controle e equilíbrio.
+
+Toda campanha militar repousa na dissimulação. Finge desordem. Jamais deixes de oferecer um engodo ao inimigo, para ludibriá-lo. Simula inferioridade para encorajar sua arrogância. Atiça sua raiva para melhor mergulhá-lo na confusão. Sua cobiça o arremeterá contra ti e, então, ele se estilhaçará.
+
+Apresta os preparativos quando teus adversários se concentrarem.
+
+Quando forem poderosos, evita-os.
+
+Mergulha o adversário em inextricáveis provações e prolonga seu esgotamento, mantendo-te a distância.
+
+Procura fortificar tuas alianças externas e consolidar tuas posições internas.
+
+Quão lamentável é arriscar tudo em um único combate, negligenciando a estratégia vitoriosa, e fazer com que o destino de tuas armas dependa de uma única batalha!
+
+Quando o inimigo estiver unido, divide-o.
+
+Ataca-o, quando ele estiver despreparado. Irrompe onde ele menos espera.
+
+Tais são as estratégias da vitória. Mas toma cuidado de não te servires delas antes da hora. O general deve basear-se em avaliações prévias. Elas apontam para a vitória quando demonstram que sua força é superior à do inimigo. Indicam a derrota quando demonstram inferioridade.
+
+Com numerosos cálculos, pode-se obter a vitória. Teme quando os cálculos forem escassos. E quão poucas chances de vencer tem aquele que nunca calcula! Graças a esse método, eu, Sun Tzu, avalio a situação e o desfecho se perfilará claramente.
+
+### II - do comando da guerra
+
+Sun Tzu diz: Suponho que comeces tua campanha com um exército de cem mil homens, que dispões de dois mil carros, mil destinados à marcha, e os outros reservados para o transporte de suprimentos. Ademais, transportas com cuidado tudo o que pode servir para o reparo de armas e carros. Suponho que tens víveres e munições suficientes, que à tua volta haja, em toda a parte, provisões para a manutenção do exército. Suponho ainda que os artesãos e outros homens que não pertencem ao corpo dos soldados já o precederam ou marcham em teu séquito. Suponho também que os diferentes suprimentos, tanto para uso bélico quanto pessoal, estejam permanentemente ao abrigo da intempérie e de acidentes imprevistos.
+
+Suponho que tens mil onças de prata para distribuir diariamente às tropas, cujo soldo é sempre pago em dia e na mais rigorosa exatidão. Nesse caso, podes avançar direto contra o inimigo. Atacá-Io e vencê-Io será para ti a mesma coisa.
+
+Digo mais: Não adies o momento do combate, nem esperes que tuas armas se enferrujem e o fio de tuas espadas se embote. A vitória é o principal objetivo da guerra.
+
+Tratando-se de tomar uma cidade, apressa-te em sitiá-Ia, concentra nisso todas as tuas forças. Precipita-te. Se falhares, tuas tropas correm o risco de ficar muito tempo em campanha, o que será uma fonte de funestos infortúnios.
+
+Os cofres do príncipe que serves se esvaziarão, tuas armas - embotadas pela ferrugem - não poderão mais servir, o entusiasmo de teus soldados arrefecerá, sua coragem e força esmorecerão, as provisões se esgotarão e, talvez, tu mesmo fiques reduzido a uma situação desesperadora.
+Informados do estado dramático em que te encontras, teus inimigos emergirão lépidos, arremeterão contra ti e te esmagarão. Embora até então tenhas sido respeitado, doravante tua reputação estará maculada. Apesar de já teres dado mostras brilhantes de valor, o último revés apagará toda a glória acumulada.
+
+Repito: não poderás manter as tropas em campanha por muito tempo, sem acarretar grande prejuízo ao Estado e sem dar um golpe mortal em tua própria reputação.
+
+Aqueles que dominam os verdadeiros princípios da arte militar não atacam duas vezes. Tudo termina já na primeira campanha. Não consomem suprimentos em vão, durante anos consecutivos. Fazem com que suas tropas subsistam às expensas do inimigo e poupam ao Estado os imensos gastos em que este incorre quando tem que transportar provisões para lugares distantes.
+
+Tais generais não ignoram - e tu também deves estar ciente disso - que nada exaure mais um reino do que as despesas de guerra pois, quer o exército esteja nas fronteiras, quer em países longínquos, o povo sempre é penalizado.
+
+O custo de vida aumenta, as mercadorias escasseiam, e mesmo aqueles que, em tempos de paz, usufruem uma boa situação, em breve já não terão com o que comprar.
+
+Ávido, o príncipe recolhe o tributo em espécie que cada família lhe deve; e a miséria vai se espraiando do seio das cidades até o campo. Das dez partes do necessário, tem-se que abrir mão de sete. Todos têm seu quinhão nos males comuns, inclusive o soberano. Couraças, elmos, flechas, arcos, escudos, carros, lanças, dardos, tudo isso estragará. Os cavalos, e até os bois que lavram as terras, definharão e, das dez partes de sua despesa ordinária, será constrangido a eliminar seis.
+Visando prevenir todos esses desastres, um hábil general faz tudo para abreviar as campanhas, e para abastecer-se às expensas do inimigo, custe o que custar.
+
+Se o exército inimigo tem uma medida de grão em seu campo, dispõe de vinte no teu. Se teu inimigo tem cento e vinte libras de forragem para seus cavalos, dispõe de duas mil e quatrocentas para os teus. Não percas nenhuma ocasião de importuná-lo. Faz com que ele pereça à míngua. Encontra meios para irritá-lo, para que ele caia em alguma armadilha. Diminui-lhe ao máximo as forças, desorientando-o, dizimando-lhe, de vez em quando, alguns soldados, saqueando seus comboios, seus equipamentos e tudo o que te poderá ser útil.
+
+Quando tuas tropas tiverem tomado do inimigo mais de dez carros, recompensa prodigamente tanto aqueles que conduziram a operação quanto os que a executaram. Junta esses carros aos teus, depois de eliminar as insígnias inimigas que por ventura nele estejam gravadas.
+
+Trata bem os prisioneiros, alimenta-os como se fossem teus próprios soldados. Na medida do possível, faz com que se sintam melhor sob tua égide do que em seu próprio campo, ou mesmo em sua pátria. Jamais os deixes ociosos. Tira partido de seus serviços, com as devidas precauções.
+
+**Resumindo:** conduz-te em relação a eles como se fossem tropas que se tivessem engajado livremente sob teus estandartes. Eis o que chamo ganhar uma batalha e tornar-se mais forte.
+
+Se fizeres exatamente o que acabo de indicar, os sucessos acompanharão todos os teus passos, em toda a parte serás vencedor. Pouparás a vida de teus soldados, fortalecerás os antigos domínios de teu país, acrescentando-lhe novos, aumentarás o esplendor e a glória do Estado e,
+tanto o príncipe quanto os súditos, te serão gratos pela doce tranqüilidade na
+qual correm doravante os seus dias.
+
+Na guerra, o essencial é a vitória e não campanhas prolongadas. O general que domina a arte da guerra é o árbitro do destino do povo e dos rumos da vitória. Que objetos podem ser mais dignos de tua atenção e de todos os teus esforços?
+
+### III - da arte de vencer sem desembainhar a espada
+
+Sun Tzu diz: Eis algumas máximas de que deves impregnar-te antes de pensar em sitiar cidades ou ganhar batalhas.
+
+Conservar os domínios e todos os direitos do príncipe que serves deve ser o primeiro de teus cuidados. Só deves ampliá-Ios, usurpando o território inimigo, quando for imprescindível.
+
+Deves ocupar-te principalmente em assegurar a tranqüilidade das cidades de teu próprio país. Perturbar as cidades inimigas deve ser a hipótese mais desfavorável.
+
+Deves pensar em colocar ao abrigo todos os vilarejos amigos. Somente a necessidade pode arrastar-te a irromper nos vilarejos Inimigos.
+
+Deves impedir que os vilarejos e as choças dos camponeses sofram qualquer dano. Só uma extrema penúria pode levar-te a saquear e a devastar as instalações agrícolas de teus inimigos.
+
+Deves almejar como aquilo que há de mais perfeito, conservar intatos os domínios dos inimigos. Só deves destruí-Ias em caso de extrema necessidade.
+
+Se um general age assim, sua conduta ombreará com a dos mais virtuosos personagens. Ela se espelhará no Céu e na Terra, cujas obras buscam a produção e a conservação e não a destruição.
+Se essas máximas estiverem bem gravadas em teu coração, garanto o teu sucesso.
+
+Repito: a melhor política guerreira é tomar um Estado intato; uma política inferior consiste em arruiná-Io.
+
+É preferível aprisionar a destruir o exército inimigo; é melhor tomar um batalhão intato do que fulminá-Io.
+
+Cem combates tivesses que travar, cem vitórias seriam teu fruto.
+
+Não procures vencer teus inimigos à custa de combates e de vitórias.
+
+Esse é um caso em que o "bom" é melhor do que o "excelente". Quanto mais te elevares acima do "bom", mais te aproximarás do "pernicioso" e do "ruim".
+
+É preferível subjugar o inimigo sem travar combate. Nesse caso, quanto mais te elevares acima do bom, mais te aproximarás do incomparável e do excelente.
+
+Os grandes generais vencem descobrindo todos os artifícios do inimigo, sabotando-Ihes os projetos, semeando a discórdia entre seus partidários, mantendo-o sempre acossado, interceptando reforços estrangeiros, e impedindo-o de tomar qualquer decisão mais vantajosa para ele.
+
+Sun Tzu diz: é de suprema importância na guerra atacar a estratégia do inimigo.
+
+Sobressai-se em resolver as dificuldades quem as resolve antes que apareçam.
+
+Sobressai-se na conquista quem conquista o troféu antes que os temores de seu inimigo se concretizem.
+
+Ataca a estratégia do adversário na raiz. Depois, rompe suas alianças. Em seguida, ataca seu exército.
+
+A pior política consiste em atacar as cidades. Apenas consente nisso se não houver outra saída. Pensa no longo tempo necessário para preparar veículos, armas, equipamentos, e para construir rampas ao longo das muralhas.
+
+Se fores obrigado a sitiar uma cidade e a destruí-Ia, dispõe de tal sorte teus veículos, escudos e todas as máquinas necessárias para o assalto, para que tudo esteja pronto quando chegar a hora de atacar.
+
+Age para que a rendição não se prolongue por mais de três meses.
+
+Quando este prazo expirar, se ainda não tiveres atingido teus objetivos, certamente terás cometido alguns erros. Empenha-te em repará-Ios.
+
+Partindo para o assalto, à frente de tuas tropas, redobra os esforços.
+
+Imita a vigilância, a diligência, o entusiasmo e a tenacidade das formigas.
+
+Suponho que terás construído antecipadamente as trincheiras e outras obras necessárias, que terás edificado fortes para descobrir o que se passa no interior da cidade sitiada, e terás contornado todos os inconvenientes que tua prudência te recomenda. Apesar de todas essas precauções, se de três partes de teus soldados tiveres a infelicidade de perder uma, sem poderes alardear vitória, convence-te de que não atacaste bem.
+
+Um hábil general jamais se encontrará reduzido a tais extremos. Ele conhece a arte de humilhar os seus inimigos sem travar batalhas. Sem derramar uma gota de sangue, sem mesmo desembainhar a
+espada, consegue tomar as cidades. Sem colocar os pés em reinos estrangeiros, descobre o meio de
+conquistá-Ios.
+
+Sem operações prolongadas e sem perder um tempo considerável à
+testa de suas tropas, conquista uma glória imortal para seu príncipe,
+assegurando a felicidade de seus compatriotas e fazendo com que o universo
+lhe seja reconhecido pelo repouso e pela paz conquistados.
+Esse é o alvo que todos os comandantes devem buscar
+incessantemente e sem jamais esmorecer.
+O objetivo de um general hábil é apoderar-se do reino inimigo quando este está intato; assim suas tropas não se esgotarão e seu triunfo será completo. Esta é a arte da estratégia vitoriosa.
+Há uma infinidade de situações diferentes em que podes te encontrar em relação ao inimigo. Nem todas poderiam ser previstas de antemão; logo, evito maiores detalhes. Tua clarividência e tua experiência te sugerirão o que deves fazer, à medida que as circunstâncias se apresentem. Entretanto, vou dar-te alguns conselhos gerais, que poderás usar, se necessário.
+
+Se fores dez vezes mais numeroso que o inimigo, cerca-o de todos os lados; não deixes nenhuma passagem livre; age de forma que ele não possa evadir-se para acampar em outra parte, nem receber qualquer socorro.
+
+Se teu contingente for cinco vezes superior, dispõe teu exército de forma que ele possa atacar pelos quatro flancos simultaneamente, no momento oportuno.
+Se tens o dobro da força do inimigo, contenta-te em dividir teu exército em dois.
+
+Mas se, em ambas as partes, a quantidade de guerreiros é a mesma, só te resta aventurar-te ao combate.
+
+Se fores inferior, fica alerta. O menor erro pode ser fatal. Tenta colocarte a salvo, e evita, se possível, entrar em choque com o adversário. A prudência e a firmeza de um punhado de pessoas pode conseguir extenuar e dominar mesmo um exército numeroso. Assim, és ao mesmo tempo capaz de
+te proteger e de obter uma vitória completa.
+
+Quem está à testa dos exércitos é o sustentáculo do Estado. Se agir corretamente, o reino será próspero. Ao contrário, se o comandante não tiver as qualidades necessárias para desempenhar dignamente seu cargo, o reino sofrerá inelutavelmente as conseqüências e talvez fique à beira do abismo.
+
+Um general só pode servir bem o Estado de um único modo, mas pode arruiná-Io de diversas maneiras.
+É preciso muito esforço e uma conduta calcada na bravura e na prudência para ser vitorioso: um só passo em falso põe tudo a perder. Um general pode cometer muitos erros. Se engajar as tropas no momento errado, fará com que ataquem quando não convém. Se não tem um conhecimento exato dos lugares onde deve conduzi-Ias; se lhes impõe acampamentos desastrosos; se as cansa inutilmente; se ordena que retrocedam sem necessidade; se ignora as necessidades dos que integram seu exército; se desconhece a ocupação a que cada um se dedicava antes de se alistar, a fim de tirar partido do talento individual de cada um; se desconhece o ponto forte e o fraco de seus subordinados; se não conta com a fidelidade dos mesmos; se não impõe a mais estrita disciplina; se carece do talento de bem governar; se é irresoluto e vacilante nas ocasiões em que urge ter pulso firme; se não recompensa adequadamente seus soldados quando de direito; se permite que
+estes sejam humilhados sem motivo pelos oficiais; se não sabe impedir as dissensões entre os chefes, um general que cometer tais erros tornará o exército capenga, esgotará homens, víveres e o reino, e se tornará a vítima infame de sua própria imperícia.
+
+Sun Tzu diz: No comando dos exércitos há sete males cruciais:
+
+1. Executar cegamente ordens tomadas na Corte, segundo o arbítrio do príncipe, sem se ater às circunstâncias.
+2. Tornar os oficiais confusos, despachando emissários que ignoram os assuntos militares.
+3. Misturar regras próprias à ordem civil e à ordem militar.
+4. Confundir o rigor necessário ao governo do Estado e a flexibilidade que o comando das tropas requer.
+5. Dividir a responsabilidade.
+6. Disseminar a suspeita, que engendra a desordem: um exército confuso conduz à vitória do inimigo.
+7. Aguardar ordens em todas as circunstâncias.
+
+Isso equivale a esperar autorização de um superior para apagar o fogo: ante que a ordem chegue, as cinzas já estarão frias. No entanto, está escrito no código que se deve consultar o inspetor nesse assunto!
+
+É como se, ao edificar uma casa na beira de uma estrada, fôssemos pedir conselho aos passantes: o trabalho ainda não estaria terminado.
+
+Este é o meu ensinamento.
+
+Nomear um general é da alçada do soberano; decidir uma batalha cabe ao general. Um príncipe esclarecido deve escolher o homem que convém, revesti-Io de responsabilidades e aguardar os resultados.
+
+Para vencer os inimigos, cinco circunstâncias são necessárias:
+
+1. I. Saber quando combater e quando bater em retirada.
+2. II. Saber lidar com o pouco e o muito, segundo as circunstâncias.
+3. III. Compor habilmente suas fileiras. Mênsio diz: "O momento oportuno não é tão importante quanto as vantagens do terreno; e tudo isso não é tão relevante quanto a harmonia das relações humanas".
+4. IV. Preparar-se, prudentemente, para afrontar o inimigo potencial. Não prever, dando como pretexto a inferioridade do adversário, é o maior dos crimes. Estar preparado, independente de qualquer contingência, é a maior das virtudes.
+5. V. Evitar as ingerências do soberano em tudo que executar, para a glória de seus exércitos.
+
+Esses são os cinco caminhos da vitória.
+
+Conhece teu inimigo e conhece-te a ti mesmo; se tiveres cem combates a travar, cem vezes serás vitorioso.
+
+Se ignoras teu inimigo e conheces a ti mesmo, tuas chances de perder e de ganhar serão idênticas.
+
+Se ignoras ao mesmo tempo teu inimigo e a ti mesmo, só contarás teus combates por tuas derrotas.
+
+### IV - da arte de manobrar as tropas
+
+Sun Tzu diz: Antigamente, os combatentes aguerridos primeiro se tornavam invencíveis. Depois, aguardavam que o inimigo ficasse vulnerável e jamais se engajavam em guerras que previam ter desfecho desfavorável.
+
+Antes de iniciarem o combate, asseguravam-se da vitória. Se a ocasião de investir contra o inimigo não era favorável, aguardavam tempos mais propícios.
+
+Tinham como princípio que só se pode ser vencido por erro próprio e que só se atinge a vitória por erro do inimigo.
+
+A garantia de nos tornarmos invencíveis está em nossas próprias mãos.
+
+Tornar o inimigo vulnerável só depende dele próprio.
+
+Conhecer os meios que asseguram a vitória não significa obtê-Ia.
+
+Assim, os hábeis generais sabiam primeiramente o que deviam temer ou esperar, e avançavam ou recuavam, lutavam ou se entrincheiravam, segundo o conhecimento que tinham, tanto a respeito das próprias tropas quanto das do inimigo. Acreditando-se superiores, não hesitavam em tomar a iniciativa.
+
+Acreditando-se inferiores, batiam em retirada e ficavam na defensiva.
+
+A invencibilidade está na defesa; a possibilidade de vitória, no ataque.
+
+Quem se defende mostra que sua força é insuficiente; quem ataca, mostra que é abundante.
+
+A arte de manter-se na defensiva não iguala a de combater com sucesso.
+
+Os generais hábeis na defesa devem esconder-se no âmago da terra.
+
+Os que querem brilhar no ataque devem elevar-se aos céus. Para colocar-se na defensiva contra o inimigo, é preciso esconder-se no seio da terra, como os veios d'água que não se sabe de onde manam e cuja ramificações são insondáveis. Assim, ocultarás todas as tuas diligências, e serás impenetrável.
+
+Aqueles que combatem devem elevar-se nas alturas; ou seja, devem combater de tal forma que o universo inteiro vibre com o estrépito de sua glória.
+
+Em ambos os casos, deve-se visar à própria integridade física.
+
+Deves procurar conhecer a arte de vencer dos que trilharam esse
+caminho com honra. Querer suplantar a todos, e procurar requintar-se nas
+artes militares, significa correr o risco de não igualar os grandes mestres,
+significa expor-se a ficar infinitamente aquém pois, nesse caso, o ótimo é
+inimigo do bom.
+Conseguir vitórias por meio de combates foi considerado em todos os
+tempos, pelo universo inteiro, como algo bom. Ouso dizer-te, todavia, que esse
+é mais um caso em que o "excelente" geralmente é pior que o "ruim". Predizer
+uma vitória que o vulgo pode prever, e ser considerado universalmente sábio,
+não significa ter habilidade bélica. Pois não requer muita força levantar a
+penugem dos coelhos no outono. Não são necessários olhos penetrantes para
+distinguir o sol da lua. Nem se requer ouvido apurado para ouvir o ronco do
+trovão. Nada mais natural, nada mais fácil, nada mais simples do que isso.
+Os hábeis guerreiros não encontram dificuldades maiores do que estas
+nos combates; eles agem de forma que vencem a batalha depois de terem
+criado as condições apropriadas.
+Eles prevêem todas as eventualidades. Conhecem a situação do
+inimigo, conhecem-lhes as forças, e não ignoram o que podem fazer e até onde
+podem ir. A vitória é uma decorrência natural desse saber.
+Assim, as vitórias obtidas por um mestre na arte da guerra não lhe
+garantiriam nem a reputação de sábio, nem o mérito de homem de valor.
+O homem comum não compreende que uma vitória seja obtida antes
+que a situação se cristalize.
+Eis por que o artífice de tal conquista não se reveste, para o vulgo, de
+nenhuma reputação de sagacidade. Antes que a lâmina de seu gládio se
+manche de sangue, o Estado inimigo já está subjugado.
+Antes de desfechar o combate, os mestres antigos procuravam humilhar
+seus inimigos, mortificavam-nos, fatigavam-nos de mil maneiras. Seus próprios
+acampamentos eram lugares sempre ao abrigo de toda surpresa, sempre
+impenetráveis. Esses generais acreditavam que, para vencer, as tropas deviam
+aspirar ao combate com entusiasmo, e estavam persuadidos que, mesmo
+quando essas mesmas tropas buscavam com veemência a vitória, geralmente
+eram vencidas.
+Por isso, com segurança, ousavam prever a vitória ou a derrota, antes
+mesmo de terem dado um passo para conquistar a primeira ou evitar a última.
+Assim eram os nossos ancestrais. Nada lhes era mais fácil do que
+vencer. Não acreditavam que os elogios derrisórios, como "corajosos", "heróis"
+ou "invencíveis", fossem um tributo que tivessem merecido. Atribuíam seu
+sucesso ao cuidado extremo que tinham em evitar o menor deslize.
+Não cometer erros significa que - faça o que fizer - o general hábil
+conquistará a vitória. Ele conquista um inimigo já derrotado. Nos planos, jamais
+um deslocamento inútil; na estratégia, jamais um passo em vão. O comandante
+hábil assume uma posição tal que não pode sofrer nenhuma derrota; não
+negligencia nenhuma circunstância que lhe garanta o controle do inimigo.
+Um exército vitorioso ganha antes de ter deflagrado a batalha; um
+exército fadado à derrota combate na esperança de ganhar.
+Aqueles que são zelosos na arte da guerra cultivam o Tao e aderem à
+sua doutrina; são, portanto, capazes de formular políticas de vitória.
+Eles não permitem que as tropas mostrem uma confiança demasiado
+cega, uma confiança que degenera em presunção. As tropas que sonham com
+a vitória são tímidas, presunçosas ou debilitadas pela preguiça. Ao contrário,
+aquelas que, sem pensar na vitória, exigem o combate, são tropas enrijecidas
+no trabalho, aguerridas, destinadas a vencer.
+Agora, eis os cinco elementos da arte da guerra:
+
+1. I. A medida do espaço;
+2. II. A avaliação das quantidades;
+3. III. As regras de cálculo;
+4. IV. As comparações;
+5. V. As chances de vitória.
+
+As medidas do espaço derivam do terreno;
+as quantidades derivam da medida;
+os números emanam das quantidades;
+as comparações decorrem dos números,
+e a vitória é o fruto das comparações.
+É pela disposição das forças que um general vitorioso é capaz de levar
+seus homens ao combate, soerguendo-os ao patamar de águas represadas
+que, súbito liberadas, mergulham num abismo incomensurável.
+
+Tu, que estás à testa dos exércitos, deves tornar-te digno do ofício que
+exerces. Avalia as medidas que contêm as quantidades, e as que determinam
+as dimensões: lembra-te das regras de cálculo. Considera os efeitos da
+balança. A vitória não é senão o fruto de um cálculo exato.
+As considerações sobre as diferentes medidas te conduzirão ao
+conhecimento do que a terra pode oferecer de útil para ti. Saberás o que ela
+produz, e usufruirás sempre seus frutos; não ignorarás os diferentes caminhos
+que terás que percorrer para atingir, de forma segura, o alvo fixado.
+Pelo cálculo, estima se o inimigo pode ser atacado, e somente depois
+mobiliza a população e recruta as tropas. Aprende a distribuir, de forma
+eqüitativa, munições e provisões. Aprende a nunca cair nos excessos do
+demais ou do muito pouco.
+Enfim, se tiveres em mente as vitórias obtidas em épocas remotas, e
+todas as circunstâncias que a acompanharam, não ignorarás os diversos usos
+a que serviram, e saberás que vantagens ou prejuízos trouxeram aos próprios
+vencedores.
+Um Y ultrapassa um Tchu1
+. Nos pratos de uma balança, o Y vence o
+Tchu. Sê para teus inimigos o que o Y é para o Tchu.
+Depois de uma primeira vantagem, não esmoreças nem dês a tuas
+tropas um repouso precipitado. Empunha a espada com a mesma rapidez de
+uma torrente que se precipita de um despenhadeiro. Que teu inimigo não tenha
+tempo sequer de se dar conta do que está ocorrendo. E só recolhe os louros da
+vitória quando a derrota completa do inimigo te colocar em condição de fazê-Io
+com segurança, vagar e tranqüilidade.
+
+1 Um Y pesa cerca de 700 gramas; um Tchu não atinge sequer um grama.
+
+### V - do confronto direto e indireto
+
+Sun Tzu diz: Comandar muitos é o mesmo que comandar poucos. Tudo é uma questão de organização. Controlar muitos ou poucos é uma mesma e
 única coisa. É apenas uma questão de formação e sinalizações.
 Lembra os nomes de todos os oficiais e subalternos. Inscreve-os num
 catálogo, anotando-lhes o talento e a capacidade individuais, a fim de
@@ -724,7 +515,7 @@ revestem-se de mil nuanças. Só há cinco notas musicais, mas quem jamais
 ouviu todas as melodias que podem resultar de sua combinação? Só há cinco
 cores primárias, mas quem jamais viu o espetáculo de todas as cores
 
-2 Direta: fixar e distrair. Indireta: irromper onde o golpe não é previsto. 
+2 Direta: fixar e distrair. Indireta: irromper onde o golpe não é previsto.
 29
 matizadas? Só há cinco paladares, mas deles podem resultar infinitos sabores.
 Quem jamais experimentou todos?
@@ -757,7 +548,7 @@ perfeita esfericidade em todos os pontos de sua superfície, eles são igualment
 resistentes em toda a parte; em todos os pontos, sua energia é a mesma. No
 auge de uma confusão e de uma desordem aparente, sabem conservar uma
 disciplina de ferro. Fazem brotar a força no seio da fraqueza. Despertam a
-coragem e a determinação no meio da covardia e da pusilanimidade. 
+coragem e a determinação no meio da covardia e da pusilanimidade.
 30
 Mas saber manter uma ordem impecável, inclusive no meio da
 desordem, exige profunda reflexão sobre todos os acontecimentos que podem
@@ -788,10 +579,10 @@ resistência mais forte do que a força recebida.
 Age de forma que o inimigo seja, entre tuas mãos, como uma pedra
 redonda que terias que precipitar de um penhasco: a força necessária é
 insignificante; os resultados, espetaculares. É nesse ponto que se reconhecerá
-tua força e autoridade. 
-31
-CAPÍTULO VI
-DO CHEIO E DO VAZIO
+tua força e autoridade.
+
+### VI - do cheio e do vazio
+
 Sun Tzu diz: Uma das tarefas essenciais que deves realizar antes do
 combate é escolher criteriosamente o terreno do campo de batalha. Para isso,
 é preciso agir rápido. Não permitas que o inimigo tome a dianteira. Ocupa o
@@ -821,8 +612,7 @@ dispõe a sair de seu campo, sai do teu. Mediante teu movimento, provoca o
 dele. Alarma-o freqüentemente. Procura induzi-Io a cometer alguma
 imprudência da qual poderás tirar proveito.
 Quando vigiares, vigia atentamente: não durmas. Quando avançares,
-avança resolutamente, trilhando com segurança caminhos que só tu conheces. 
-32
+avança resolutamente, trilhando com segurança caminhos que só tu conheces.
 Desloca-te para lugares onde o inimigo não desconfie que pretendas ir.
 Surge de repente onde ele não te aguarda e arremete quando ele menos
 espera.
@@ -855,8 +645,7 @@ em pânico. Então, poderás sair e atacá-Ios com vantagem.
 Jamais dividas os diferentes corpos de teus exércitos. Faz com que
 possam sempre socorrer-se mutuamente. Por outro lado, faz com que o inimigo
 se divida ao máximo. Se ele se dividir em dez corpos, ataca cada um deles
-separadamente com teu exército inteiro. É o verdadeiro método de combater 
-33
+separadamente com teu exército inteiro. É o verdadeiro método de combater
 sempre com vantagem. Dessa forma, por menor que seja teu exército, estarás
 sempre em maioria.
 Que o inimigo nunca saiba como pretendes combater, nem como vais
@@ -890,8 +679,7 @@ possas ouvi-Io. Sê testemunha de toda a sua conduta. Penetra mesmo no
 Tendo pleno conhecimento de todos os projetos, de todos os
 movimentos, de todas as ações do inimigo, farás com que, a cada dia, ele
 venha precisamente onde queres que ele venha. Nesse caso, tu o obrigarás a
-acampar de forma tal que a vanguarda de seu exército não possa receber 
-34
+acampar de forma tal que a vanguarda de seu exército não possa receber
 reforço da retaguarda, que a ala direita não possa ajudar a esquerda, e tu o
 combaterás assim, no lugar e no momento que estipulares.
 Antes do dia determinado para o combate, não estejas nem longe nem
@@ -907,26 +695,26 @@ gente, o venceu, o derrotou, não lhe deixando, de todos os seus Estados,
 senão a lembrança amarga, e a vergonha eterna por tê-Ios tão mal governado.
 Digo que a vitória pode ser forjada. Mesmo quando o inimigo é
 numeroso, posso impedi-Io de iniciar o combate; pois, se ele ignora minha
-força, posso fazer com que ele se concentre em sua própria preparação: assim,
-tiro-lhe a tranqüilidade de fazer planos para me derrotar.
-I. Sonda os planos do inimigo e saberás qual estratégia será
-coroada de êxito e qual está fadada ao fracasso.
-II. Perturba o inimigo e faz com que ele revele seus movimentos.
-III. Descobre a disposição tática do inimigo e faz com que ele
-exponha seu local de batalha.
-IV. Coloca-o à prova e descobre onde sua força é pujante e onde é
-deficiente.
-V. A suprema tática consiste em dispor as tropas sem forma
-aparente. Então, os espiões mais penetrantes nada podem
-farejar, nem os sábios mais experientes poderão fazer planos
-contra ti.
-VI. Estabeleço planos para a vitória segundo essas táticas, mas o
-vulgo tem dificuldades em compreendê-Ias. Todos são capazes
-de ver os aspectos exteriores, mas ninguém pode compreender o
-caminho segundo o qual forjei a vitória.
-VII. Jamais repitas uma tática vitoriosa, mas responde às
-circunstâncias segundo uma variedade infinita de métodos. 
-35
+força, posso fazer com que ele se concentre em sua própria preparação: assim, tiro-lhe a tranqüilidade de fazer planos para me derrotar.
+
+1. I. Sonda os planos do inimigo e saberás qual estratégia será
+2. coroada de êxito e qual está fadada ao fracasso.
+3. II. Perturba o inimigo e faz com que ele revele seus movimentos.
+4. III. Descobre a disposição tática do inimigo e faz com que ele
+5. exponha seu local de batalha.
+6. IV. Coloca-o à prova e descobre onde sua força é pujante e onde é
+7. deficiente.
+8. V. A suprema tática consiste em dispor as tropas sem forma
+9. aparente. Então, os espiões mais penetrantes nada podem
+10. farejar, nem os sábios mais experientes poderão fazer planos
+11. contra ti.
+12. VI. Estabeleço planos para a vitória segundo essas táticas, mas o
+13. vulgo tem dificuldades em compreendê-Ias. Todos são capazes
+14. de ver os aspectos exteriores, mas ninguém pode compreender o
+15. caminho segundo o qual forjei a vitória.
+16. VII. Jamais repitas uma tática vitoriosa, mas responde às
+
+circunstâncias segundo uma variedade infinita de métodos.
 Entretanto, se teu exército for pequeno, não vás inadvertidamente medirte
 com um exército numeroso. Deves tomar muitas precauções antes de
 chegar a esse ponto. Quando se tem os conhecimentos de que falei acima,
@@ -958,7 +746,7 @@ mesma forma, teu exército deve adaptar-se ao terreno onde se move. A água
 sem queda não pode correr; tropas mal conduzidas não podem vencer.
 O general hábil tirará partido de todas as circunstâncias, inclusive as
 mais perigosas e as mais críticas. Sabe manipular não somente o exército que
-comanda, mas também o dos inimigos. 
+comanda, mas também o dos inimigos.
 36
 As tropas, quaisquer que sejam, não têm qualidades constantes que as
 tornem invencíveis. Os piores soldados podem transformar-se, revelando-se
@@ -970,10 +758,10 @@ alvorecer e o poente não estão sempre no mesmo ponto do horizonte. Alguns
 dias são longos; outros, curtos. A lua cresce e decresce e nem sempre é
 brilhante. Um exército bem comandado e bem disciplinado imita todas essas
 variedades, apresentando-se multifacetado, em função das circunstâncias e
-dos inimigos. 
-37
-CAPÍTULO VII
-DA ARTE DO CONFRONTO
+dos inimigos.
+
+### VII - da arte do confronto
+
 Sun Tzu diz: Depois de receber do soberano a ordem de manter a
 campanha, o general deve concentrar as tropas e mobilizar o povo. Ele
 transforma o exército em um conjunto harmonioso. Depois, esforça-se para
@@ -1004,8 +792,7 @@ forma, poderás colocar-te a caminho depois dele e chegar antes. Aquele que
 for capaz disso, compreende o significado da abordagem direta e indireta.
 Não te engajes jamais em pequenas ações cujo desfecho é incerto;
 evita-as, se a elas não fores forçado. Sobretudo, evita te engajares em uma
-ação geral se não estiveres seguro de uma vitória completa. É muito perigoso 
-38
+ação geral se não estiveres seguro de uma vitória completa. É muito perigoso
 precipitar-se em casos semelhantes. Uma batalha travada de forma
 intempestiva pode arruinar-te completamente. O mínimo que pode acontecer,
 se o desfecho for duvidoso, ou se obtiveres um sucesso apenas parcial, é verte
@@ -1038,8 +825,7 @@ mesmo não acontece se ele tiver tempo de reagir. Em seguida, talvez ele
 encontre recursos para escapar ou até para te derrotar.
 Não negligencies nada do que pode contribuir para a disciplina, a saúde
 e a segurança de teus soldados. Zela para que suas armas estejam sempre em
-bom estado. Faz com que os víveres sejam saudáveis e abundantes. Se as 
-39
+bom estado. Faz com que os víveres sejam saudáveis e abundantes. Se as
 tropas estiverem mal armadas, se os víveres escassearem, e se não tiveres
 previamente todos os suprimentos necessários, dificilmente vencerás.
 Busca entendimento secreto com os ministros estrangeiros, e mantém-te
@@ -1073,8 +859,7 @@ decidires enviar algum destacamento, que seja sempre na esperança, ou
 melhor, na certeza de uma vantagem real. Para evitar os descontentamentos,
 reparte sempre, de forma meticulosa e justa, todos os despojos.
 Quem conhece a arte da aproximação direta e indireta será vitorioso. Eis
-a arte do confronto. 
-40
+a arte do confronto.
 A tudo o que acabo de dizer, convém acrescentar a maneira de dar
 ordens e de fazer com que sejam executadas. Há ocasiões e acampamentos
 em que a maior parte de teus homens não poderá te ver nem te ouvir. Os
@@ -1108,8 +893,7 @@ Mei Yao-tchen afirma que manhã, tarde e noite representam. As fases
 de uma longa campanha.
 Portanto, quando atacares o inimigo, escolhe, para fazê-Io com
 vantagem, o momento em que presumes que ele esteja fragilizado ou
-esgotado. Terás tomado antes todas as precauções e tuas tropas, 
-41
+esgotado. Terás tomado antes todas as precauções e tuas tropas,
 descansadas e rápidas, contarão com a vantagem da força e do vigor. Este é o
 controle do fator moral.
 Se vires que a ordem reina nas fileiras inimigas, espera que a desordem
@@ -1136,10 +920,10 @@ Não te encarnices contra um inimigo derrotado.
 Eis o que tinha a dizer sobre as diferentes vantagens que deves tentar
 obter quando, no comando do exército, terás que medir-te com inimigos talvez
 tão prudentes e valorosos quanto tu. Eles não poderão ser vencidos, a menos
-que uses os pequenos estratagemas que acabo de indicar. 
-42
-CAPÍTULO VIII
-DA ARTE DAS MUDANÇAS
+que uses os pequenos estratagemas que acabo de indicar.
+
+### VIII - da arte das mudanças
+
 Sun Tzu diz: Geralmente o comando dos exércitos cabe ao general,
 depois que o soberano lhe deu o mandato para mobilizar o povo e recrutar as
 tropas.
@@ -1169,8 +953,7 @@ recurso, onde se definha inelutavelmente pela insalubridade do
 ar, onde as provisões mínguam sem esperança de serem
 repostas; onde as doenças começam a grassar no exército,
 prenunciando grandes flagelos. Se te encontrares em tais
-circunstâncias, precipita-te em deflagrar o combate. Asseguro-te 
-43
+circunstâncias, precipita-te em deflagrar o combate. Asseguro-te
 que tuas tropas se mostrarão intrépidas no combate. Morrer pela
 mão do inimigo lhes parecerá suave em comparação com todos
 os males que as atormentam.
@@ -1203,8 +986,7 @@ IX. Nas ocasiões em que for necessário tomar imediatamente uma
 decisão, não esperes as ordens do príncipe. Se tiveres que
 desobedecer ordens recebidas, não hesites, age sem medo. A
 principal intenção do príncipe que te colocou à frente dos
-exércitos é venceres o inimigo. Se ele tivesse previsto as 
-44
+exércitos é venceres o inimigo. Se ele tivesse previsto as
 circunstâncias em que te encontras, certamente tomaria a
 decisão que queres tomar.
 Essas são as nove variáveis ou nove circunstâncias principais que
@@ -1238,8 +1020,7 @@ Mantém-te de prontidão, vê quando o inimigo chega, perscruta suas
 atitudes e sua conduta e tira conclusões. Procedendo assim, não corres o risco
 de te enganares e de seres ludibriado ou vitimado por conjeturas precipitadas.
 Se não quiseres ser esmagado pela infinidade de trabalhos e
-sofrimentos, prepara-te sempre para o pior. Trabalha sem cessar para 
-45
+sofrimentos, prepara-te sempre para o pior. Trabalha sem cessar para
 prejudicar o inimigo. Poderás fazê-Io de diferentes formas, mas eis o que há de
 essencial neste tópico.
 Lança mão de tudo para corromper seus melhores homens: oferendas,
@@ -1273,8 +1054,7 @@ Atacavam pelo lado mais fraco, quando suas tropas estavam indolentes e
 ociosas.
 Antes de terminar este capítulo, devo te prevenir contra cinco defeitos
 que, embora pareçam inócuos, são perniciosos e representam obstáculos
-funestos que derrotaram a prudência e a bravura mais de uma vez. 
-46
+funestos que derrotaram a prudência e a bravura mais de uma vez.
 I. O primeiro é o entusiasmo excessivo em afrontar a morte, atitude
 temerária que se honra 'Com o nome de "coragem", "intrepidez" e
 "valor" mas, no fundo, só merece o de "covardia". Um general que
@@ -1308,8 +1088,7 @@ desencorajar depois de alguns fracassos, nem acreditar que tudo
 está perdido porque cometeu algum erro ou sofreu algum revés.
 V. O quinto perigo é a complacência ou a compaixão desmedida em
 relação aos soldados. Um general que não ousa punir, que fecha
-os olhos para a desordem, que teme que os seus soldados estejam 
-47
+os olhos para a desordem, que teme que os seus soldados estejam
 sempre vergados sob o peso do trabalho, não ousando, por essa
 razão, impor-Ihes novas tarefas, é um general fadado ao fracasso.
 Os subordinados devem sempre ser punidos. É preciso que sofram
@@ -1329,10 +1108,10 @@ Que ame seus soldados e os poupe, mas com moderação.
 Combatendo, movimentando-se, sitiando cidades, fazendo ofensivas,
 deve conjugar a astúcia à valentia, a sabedoria à força das armas. Deve saber
 reparar seus erros, quando tiver a infelicidade de cometê-los, aproveitando
-todos os erros do inimigo e induzindo-o a cometer outros. 
-48
-CAPÍTULO IX
-DA IMPORTÂNCIA DA GEOGRAFIA
+todos os erros do inimigo e induzindo-o a cometer outros.
+
+### IX - da importância da geografia
+
 Sun Tzu diz: Antes de ordenar o acampamento, informa-te da posição
 de teus inimigos. Analisa o terreno e escolhe o mais vantajoso. As diferentes
 situações que encontrarás podem-se reduzir a quatro principais.
@@ -1362,8 +1141,7 @@ em retirada.
 III. Se estiveres em lugares escorregadios, úmidos, pantanosos e
 insalubres, sai o mais rápido possível. Permanecendo, corres
 muitos riscos. A penúria de víveres e as doenças viriam em breve
-te assolar. Se fores obrigado a permanecer ali, tenta ocupar as 
-49
+te assolar. Se fores obrigado a permanecer ali, tenta ocupar as
 orlas. Evita adentrar-te no terreno. Se houver florestas nas
 cercanias, situa-te de costas para elas.
 IV. Se estiveres em planícies, em lugares uniformes e secos, mantém
@@ -1397,8 +1175,7 @@ seu curso ordinário. Saberás o momento exato, quando cessar certo rumor
 surdo, quando não houver mais espumas à tona, e quando a terra ou a areia
 não mais correrem junto com a água.
 Quanto a desfiladeiros, lugares pantanosos, escorregadios, estreitos e
-cobertos de vegetação ou entrecortados por precipícios e rochedos, se a 
-50
+cobertos de vegetação ou entrecortados por precipícios e rochedos, se a
 necessidade ou o acaso ali te conduziram, afasta-te o mais rápido possível. Se
 estiveres longe, o inimigo estará perto. Se fugires, o inimigo te perseguirá e
 talvez caia nos perigos que acabas de esquivar.
@@ -1431,8 +1208,7 @@ baixa e espessa, vem a infantaria. Em lugares onde é menos espessa e mais
 elevada, aproximam-se a cavalaria e os veículos.
 Se te advertem que os inimigos estão dispersos e só marcham por
 pelotões, é indício que tiveram que atravessar algum bosque, que abateram
-alguma caça, e estão cansados. Estão procurando juntar-se. 
-51
+alguma caça, e estão cansados. Estão procurando juntar-se.
 Se te informam que se avistam no campo pessoas a pé e um vaivém de
 homens montados, dispersos em pequenos bandos, trata-se de um engodo.
 Não duvides que os inimigos estão acampados.
@@ -1464,8 +1240,7 @@ acampamentos. Poderás conhecê-Ios por intermédio dos pássaros que verás
 em bando sobrevoando determinados lugares. E se os acampamentos forem
 freqüentes, poderás concluir que eles têm pouca habilidade no conhecimento
 dos terrenos. O vôo dos pássaros ou os seus trinados podem indicar a
-presença de emboscadas. 
-52
+presença de emboscadas.
 Se fores informado que, no campo inimigo, há muitas festas, que ali se
 come e bebe em grande algazarra, tranqüiliza-te: é prova infalível de que seus
 generais não têm autoridade.
@@ -1498,8 +1273,7 @@ seu posto, e não o reclamaram de volta, conclui que são ladrões. Pune-os
 como tais.
 Se em teu exército há encontros secretos, se ali amiúde se fala em
 surdina, se há coisas que não ousam dizer senão a meia voz, conclui que o
-medo se espalhou entre os soldados, que os descontentamentos virão em 
-53
+medo se espalhou entre os soldados, que os descontentamentos virão em
 seguida e as conspirações não tardarão a eclodir. Apressa-te em restabelecer
 a ordem.
 Se tuas tropas parecem pobres, carecendo algumas vezes até do
@@ -1533,8 +1307,7 @@ irremediavelmente.
 Não mantendo uma disciplina rígida em teu exército, não punindo com
 rigor a menor infração, em breve deixarás de ser respeitado, teu prestígio se
 abalará, e os castigos que empregares em seguida, em lugar de coibir os
-delitos, só servirão para aumentar o número de culpados. Ora, se não és nem 
-54
+delitos, só servirão para aumentar o número de culpados. Ora, se não és nem
 temido nem respeitado, se só usufruis de uma frágil autoridade, de que não
 sabes servir-te sem perigo, como poderás comandar um exército? Como
 poderás enfrentar os inimigos do Estado?
@@ -1546,10 +1319,10 @@ tuas mãos.
 Na guerra, a superioridade numérica isolada não confere vantagem. Não
 avances, contando apenas com a força militar. Um exército integrado pelos
 mesmos homens pode ser irrisório se comandado por determinado general, ou
-invencível se comandado por outro. 
-55
-CAPÍTULO X
-DA TOPOGRAFIA
+invencível se comandado por outro.
+
+###  X - da topografia
+
 Sun Tzu diz: A superfície da Terra apresenta uma variedade infinita de
 lugares. Deves fugir de uns e buscar outros. Todavia, deves conhecer todos os
 terrenos com perfeição.
@@ -1579,8 +1352,7 @@ ponto de seguir-te, será obrigado a atravessar esse terreno escabroso. Quando
 ele tiver engajado a metade de suas tropas, ataca-o e vencerás sem muito
 trabalho.
 Uma vez acampado em terreno vantajoso, espera calmamente que o
-inimigo tome suas primeiras disposições e se movimente. Se o inimigo 
-56
+inimigo tome suas primeiras disposições e se movimente. Se o inimigo
 avançar, com intenção de lutar, só vás a seu encontro quando perceberes que
 ele não poderá retroceder facilmente.
 Um inimigo bem preparado, contra o qual teu ataque fracassou na
@@ -1599,12 +1371,14 @@ com tanta premência quanto tu. Emprega toda tua argúcia para ludibriá-Io.
 Sobretudo, não o ataques diretamente. Lembra que há diversos modos de
 enganar e ser enganado. Só te lembrarei dos seis principais, porque são as
 fontes de todos os outros.
-O primeiro consiste na marcha das tropas.
-O segundo, em suas diferentes formações.
-O terceiro, em sua disposição em lugares pantanosos.
-O quarto, em sua desordem.
-O quinto, em seu enfraquecimento.
-O sexto, em sua fuga.
+
+- O primeiro consiste na marcha das tropas.
+- O segundo, em suas diferentes formações.
+- O terceiro, em sua disposição em lugares pantanosos.
+- O quarto, em sua desordem.
+- O quinto, em seu enfraquecimento.
+- O sexto, em sua fuga.
+
 Um general que fracassar, por desconhecer esses estratagemas, se
 equivoca em acusar o Céu de sua infelicidade. Ele deve atribuir a si mesmo
 toda a culpa.
@@ -1614,8 +1388,7 @@ perfeitamente o terreno onde se encontra no momento; nem aquele para onde
 vai, nem aquele onde se refugiar em caso de revés, nem aquele onde pode
 simular ir, sem outra intenção senão a de arrastar o inimigo, e se tampouco
 conhece o terreno onde pode ser forçado a parar, de uma hora para outra; se
-movimenta seu exército inadvertidamente, se não está informado de todos os 
-57
+movimenta seu exército inadvertidamente, se não está informado de todos os
 movimentos do exército inimigo e dos projetos de seu comandante; se divide
 suas tropas sem necessidade, sem ser forçado a isso pela natureza do terreno,
 sem ter previsto todos os inconvenientes que poderiam resultar, ou sem ter
@@ -1649,8 +1422,7 @@ própria em ações ou em pequenos combates dos quais não se sairão com
 honra, porque os terão iniciado com precipitação, e não terão previsto todos os
 inconvenientes e todas as conseqüências. Algumas vezes, agirão inclusive
 contra a intenção expressa do general, sob diversos pretextos que tentarão
-tornar plausíveis. É assim que, de uma ação particular, deflagrada 
-58
+tornar plausíveis. É assim que, de uma ação particular, deflagrada
 irreí1etidamente e contra todas as regras, pode-se chegar a um conflito
 generalizado, que beneficiará o campo inimigo. Vigia tais oficiais, mantém-nos
 a teu lado. Por mais qualidades que tenham, eles te causarão enormes
@@ -1684,8 +1456,7 @@ puder salvar-se fugindo.
 Assim, para retomar o tema deste capítulo, um bom general deve
 conhecer todos os terrenos passíveis de serem o teatro da guerra, tão
 profundamente quanto conhece os cantos e recantos dos jardins e dos rios de
-sua propriedade. 
-59
+sua propriedade.
 Repito que o conhecimento exato do terreno é o material essencial de
 que o general dispõe para arquitetar uma vitória tão relevante para a
 tranqüilidade e a glória do Estado. Assim, um homem, que o berço ou os
@@ -1719,8 +1490,7 @@ atingido o alvo.
 Em qualquer terreno que estiveres, deves considerar. tuas tropas como
 crianças que ignoram tudo e não podem dar um passo por si sós. É preciso
 conduzi-Ias. Deves olhar teus soldados, repito, como se fossem teus próprios
-filhos. Tu mesmo deves conduzi-Ios. Assim, se tiverem que enfrentar o acaso, 
-60
+filhos. Tu mesmo deves conduzi-Ios. Assim, se tiverem que enfrentar o acaso,
 não estarão sozinhos, e só o enfrentarão depois de ti. Se tiverem que morrer,
 morre com eles.
 Digo que deves amar todos os que estão sob teu comando como se
@@ -1748,21 +1518,22 @@ critério, todas as retiradas com sistema e método. Conhece as próprias forcas
 e as do inimigo. Conhece perfeitamente o terreno.
 Portanto, repito: Conhece-te a ti mesmo, conhece teu inimigo. Tua vitória
 jamais correrá risco. Conhece o lugar, conhece o tempo. Então, tua vitória será
-total. 
-61
-CAPÍTULO XI
-DOS NOVE TIPOS DE TERRENOS
-Sun Tzu diz: Há nove tipos de terrenos que podem ser usados com
-vantagem ou desvantagem por um ou outro exército.
-Lugares dispersivos;
-Lugares leves;
-Lugares disputados;
-Lugares de reunião;
-Lugares cheios e unidos;
-Lugares com várias saídas;
-Lugares graves;
-Lugares deteriorados;
-Lugares mortíferos.
+total.
+
+### XI - dos nove tipos de terrenos
+
+Sun Tzu diz: Há nove tipos de terrenos que podem ser usados com vantagem ou desvantagem por um ou outro exército.
+
+- Lugares dispersivos;
+- Lugares leves;
+- Lugares disputados;
+- Lugares de reunião;
+- Lugares cheios e unidos;
+- Lugares com várias saídas;
+- Lugares graves;
+- Lugares deteriorados;
+- Lugares mortíferos.
+
 I. Chamo de lugares dispersivos os que se situam perto de nossas
 fronteiras. Tropas ociosas que permanecem muito tempo na
 proximidade de seus lares compõem-se de homens que têm mais
@@ -1781,43 +1552,38 @@ exércitos, onde tanto o inimigo quanto nós mesmos estaremos
 em vantagem, onde se pode instalar um acampamento cuja
 posição, independentemente de sua utilidade própria, pode
 prejudicar o adversário, e impedir-lhe a visibilidade. Esses lugares
-podem e devem ser disputados. São terrenos-chave. 
-62
-IV. Por lugares de reunião entendo aqueles onde é quase inevitável
-que tanto nós quanto o inimigo transitemos. São lugares onde o
-inimigo - tão ao alcance de suas fronteiras quanto tu das tuas -
-estaria em segurança em caso de infortúnio ou poderia perseguir
-sua boa estrela, caso de início tivesse triunfado. São lugares que
-comunicam com o exército inimigo e com zonas de retirada.
-V. Chamo de cheios e unidos os terrenos que, por sua configuração
-e suas dimensões, permitem a utilização pelos dois exércitos,
-mas, como estão enquistados profundamente em território
-inimigo, não devem te incitar a travar batalha, a menos que a
-necessidade ou o inimigo te obriguem.
-VI. Os lugares com várias saídas são os que permitem a junção entre
-os diferentes Estados contíguos. Esses lugares estão na
-encruzilhada onde os príncipes vizinhos podem aportar reforços à
-facção que lhes aprouver favorecer.
-VII. Os lugares graves são os que, situados no interior de Estados
-inimigos, apresentam em todas as direções cidades, fortalezas,
-montanhas, desfiladeiros, pântanos, pontes, campos áridos, ou
-outros obstáculos.
-VIII. Os lugares onde tudo míngua, onde uma parte do exército não
-consegue ver a outra nem socorrê-Ia, onde há lagos, atoleiros,
-torrentes, rios traiçoeiros, onde só se pode avançar por pequenos
-pelotões, com grandes esforços e muita dificuldade, são os que
-chamo de deteriorados.
-IX. Enfim, por lugares mortíferos entendo todos aqueles onde nos
-encontramos de tal forma fragilizados que, independente de
-qualquer atitude que tomarmos, sempre estamos em perigo. São
-lugares onde, combatendo-se, corre-se o risco de ser vencido;
-ficando-se tranqüilo, corre-se o risco de sucumbir de fome ou de
-doença. São lugares, em suma, onde não se deve permanecer e
-onde só se pode sobreviver com muita dificuldade, combatendo
-com a força do desespero.
+podem e devem ser disputados. São terrenos-chave.
+
+1. IV. Por lugares de reunião entendo aqueles onde é quase inevitável
+2. que tanto nós quanto o inimigo transitemos. São lugares onde o
+3. inimigo - tão ao alcance de suas fronteiras quanto tu das tuas -
+4. estaria em segurança em caso de infortúnio ou poderia perseguir
+5. sua boa estrela, caso de início tivesse triunfado. São lugares que
+6. comunicam com o exército inimigo e com zonas de retirada.
+7. V. Chamo de cheios e unidos os terrenos que, por sua configuração
+8. e suas dimensões, permitem a utilização pelos dois exércitos,
+9. mas, como estão enquistados profundamente em território
+10. inimigo, não devem te incitar a travar batalha, a menos que a
+11. necessidade ou o inimigo te obriguem.
+12. VI. Os lugares com várias saídas são os que permitem a junção entre
+13. os diferentes Estados contíguos. Esses lugares estão na
+14. encruzilhada onde os príncipes vizinhos podem aportar reforços à
+15. facção que lhes aprouver favorecer.
+16. VII. Os lugares graves são os que, situados no interior de Estados
+17. inimigos, apresentam em todas as direções cidades, fortalezas,
+18. montanhas, desfiladeiros, pântanos, pontes, campos áridos, ou
+19. outros obstáculos.
+20. VIII. Os lugares onde tudo míngua, onde uma parte do exército não
+21. consegue ver a outra nem socorrê-Ia, onde há lagos, atoleiros,
+22. torrentes, rios traiçoeiros, onde só se pode avançar por pequenos
+23. pelotões, com grandes esforços e muita dificuldade, são os que
+24. chamo de deteriorados.
+25. IX. Enfim, por lugares mortíferos entendo todos aqueles onde nos
+26. encontramos de tal forma fragilizados que, independente de
+27. qualquer atitude que tomarmos, sempre estamos em perigo. São lugares onde, combatendo-se, corre-se o risco de ser vencido; ficando-se tranqüilo, corre-se o risco de sucumbir de fome ou de doença. São lugares, em suma, onde não se deve permanecer e onde só se pode sobreviver com muita dificuldade, combatendo  com a força do desespero.
+
 Esses são os nove tipos de terrenos de que queria falar-te. Aprende a
-conhecê-Ios, para evitá-Ios ou aproveitá-Ios. 
-63
+conhecê-Ios, para evitá-Ios ou aproveitá-Ios.
 Quando estiveres em lugares dispersivos, controla bem tuas tropas;
 mas, sobretudo, jamais traves batalha, por mais favoráveis que as
 circunstâncias se apresentem. A vista da terra natal e a facilidade de retorno
@@ -1851,8 +1617,7 @@ conhece-os bem. Alia-te com os Estados vizinhos, que nada escape a tuas
 pesquisas. Apodera-te de todas as rotas, não negligencies nenhuma, por mais
 insignificante que possa parecer, e vigia-as com muito cuidado.
 Se te encontrares em lugares graves, domina tudo o que te cerca, não
-deixes, em tua passagem, de conquistar o menor posto. Sem essa precaução, 
-64
+deixes, em tua passagem, de conquistar o menor posto. Sem essa precaução,
 corres o risco de faltarem os víveres necessários para a manutenção de teu
 exército, ou de veres o inimigo em teu encalço quando menos pensares, e
 seres atacado por vários lados ao mesmo tempo.
@@ -1884,8 +1649,7 @@ inimigo ambiciona, e ele acederá a teus desejos. Coloca-o na defensiva, para
 ganhar tempo. A rapidez é a seiva da guerra.
 Percorre rotas imprevistas. Procura impedir que o exército inimigo seja
 abastecido, barra todos os seus caminhos ou, pelo menos, faz com que todos
-tenham emboscadas ou exijam muito esforço para serem conquistados. 
-65
+tenham emboscadas ou exijam muito esforço para serem conquistados.
 Os camponeses podem ser muito úteis e te servir melhor do que tuas
 próprias tropas: mostra-Ihes que eles devem impedir que injustos saqueadores
 venham pilhar seus bens e seqüestrar-Ihes pai, mãe, mulher e filhos.
@@ -1919,8 +1683,7 @@ com tanta disciplina e coragem como se estivesse longamente preparado para
 a batalha.
 Se triunfares, a força, a coragem e a determinação de teus soldados
 redobrará. Tua reputação crescerá na mesma proporção do risco incorrido. Teu
-exército se acreditará invencível sob teu comando. 
-66
+exército se acreditará invencível sob teu comando.
 Por mais crítica que seja a situação e as circunstâncias em que te
 encontrares, não te desesperes. Nas ocasiões em que tudo inspira temor, nada
 deves temer. Quando estiveres cercado de todos os perigos, não deves temer
@@ -1954,8 +1717,7 @@ Os animais estacam quando sobrecarregados; tornam-se inúteis quando
 forçados. Os pássaros, ao contrário, necessitam ser forçados para renderem
 mais. Os homens ficam a meio termo entre uns e outros. É preciso
 sobrecarregá-Ias, mas não a ponto de vergarem. É preciso forçá-Ias com
-discernimento e medida. 
-67
+discernimento e medida.
 Se quiseres tirar o máximo de teu exército, se quiseres que ele seja
 invencível, faz com que se assemelhe a Chuai Jen, uma grande serpente que
 se encontra no Monte Chang Chan. Golpeada na cabeça, imediatamente sua
@@ -1989,8 +1751,7 @@ vitória. Não basta contar com cavalos mancos ou carros enlameados. O que
 adiantaria estar em vantagem se não soubesses tirar partido de tua posição?
 Para que servem a bravura sem a prudência; a coragem sem a astúcia?
 Um bom general tira partido de tudo, e só é capaz disso porque age com
-o maior sigilo, conserva o sangue-frio e comanda com retidão, mas de tal forma 
-68
+o maior sigilo, conserva o sangue-frio e comanda com retidão, mas de tal forma
 que fascina os olhos, mas engana os ouvidos de seu exército. Se seus próprios
 soldados ignoram-lhe os projetos, como os inimigos poderiam desvendá-Ios?
 Um general hábil sabe que suas tropas ignoram o que devem fazer, bem
@@ -2024,8 +1785,7 @@ inimigas e, mediante sua civilidade, conquistaram o respeito dos que desejam
 vencer, ou dos vencidos.
 Instruído pela experiência e por minhas próprias reflexões, tentei,
 quando comandava os exércitos, praticar tudo o que te recomendo aqui.
-Quando estava em lugares dispersivos, trabalhava para a união dos corações e 
-69
+Quando estava em lugares dispersivos, trabalhava para a união dos corações e
 para a uniformidade dos sentimentos. Quando estava em lugares leves, reunia
 meus homens e os ocupava utilmente. Quando estava em lugares disputados,
 tentava me apoderar do terreno, quando possível. Se o inimigo me tivesse
@@ -2059,8 +1819,7 @@ comandar.
 Quando. um Rei Hegemônico ataca um Estado poderoso, ele impede
 que a inimiga se concentre. Intimida-a e intercepta as reforços das aliadas.
 Então, deduz-se que a Rei Hegemônico não combate alianças poderosas de
-Estados e não encoraja o poder de outros Estados. Ele se apóia, para a 
-70
+Estados e não encoraja o poder de outros Estados. Ele se apóia, para a
 consecução de seus fins, na capacidade de intimidar as adversárias. Assim, ele
 pode tomar as cidades inimigas e derrubar o Estado inimiga.
 Se não conheces a arte das alianças, tuas tropas não poderão. valer-se
@@ -2094,8 +1853,7 @@ O nó das operações militares depende de tua faculdade de simular que
 acatas o desejo do inimigo.
 Jamais dividas tuas forças; a concentração te permite matar o general
 inimigo, mesmo a uma grande distância. Essa é uma forma engenhosa de
-atingires teu objetivo. 
-71
+atingires teu objetivo.
 Quando o inimigo te oferecer uma oportunidade, aproveita rapidamente
 a vantagem; toma a dianteira, apropriando-te de algo relevante para ele, e
 avança segundo um plano fixado em segredo.
@@ -2109,10 +1867,10 @@ Antes de começar a campanha, sê como uma jovem que não sai de
 casa; ela ocupa-se das tarefas caseiras, cuida de tudo, vê tudo, ouve tudo, mas
 aparentemente não se intromete em nada. Uma vez a campanha começada,
 imita a rapidez de uma lebre que, perseguida pelos caçadores, tenta, por mil
-desvios, refugiar-se, com toda a segurança, em seu covil. 
-72
-CAPÍTULO XII
-DA PIROTECNIA
+desvios, refugiar-se, com toda a segurança, em seu covil.
+
+### XII - da pirotecnia
+
 Sun Tzu diz: Há cinco maneiras de combater com fogo. A primeira
 consiste em queimar homens; a segunda, em queimar provisões; a terceira, em
 queimar equipamentos; a quarta, em queimar arsenais e depósitos; a quinta,
@@ -2142,8 +1900,7 @@ crepitem. Então, poderás lançar-te contra aqueles que só pensam
 em escapar.
 II. Se, pouco depois de teres ateado fogo, vês que se levantam altas
 labaredas, não dês ao inimigo tempo de apagá-lo. Envia homens
-para avivá-lo, prepara-te rápido e corre ao combate. 
-73
+para avivá-lo, prepara-te rápido e corre ao combate.
 III. Se, apesar de todas as providências e artifícios empregados, teus
 homens não conseguiram penetrar no acampamento inimigo, e
 fores obrigado, então, a atear fogo do lado de fora, observa de
@@ -2177,8 +1934,7 @@ Se prevês algum lucro, coloca em movimento teu exército. Se não
 prevês nenhuma vantagem, fica impassível. Por mais razões que tenhas para
 ficar irritado, por mais provocações ou insultos que recebeste, para tomar
 decisões espera que o fogo da cólera se dissipe e sentimentos pacíficos
-brotem em teu coração. Nunca esqueças que teu objetivo, ao desencadear a 
-74
+brotem em teu coração. Nunca esqueças que teu objetivo, ao desencadear a
 guerra, deve ser o de conseguir para o Estado a glória, o esplendor e a paz, e
 não o de semear o tumulto, a desolação e a morte.
 Lembra-te que defendes não interesses pessoais, mas os do teu país.
@@ -2189,10 +1945,10 @@ sustentar um reino que terás levado à beira da ruína. Depois de destruí-Ia, 
 impossível reerguê-lo. Tampouco se ressuscitam os mortos.
 Da mesma forma que um príncipe sábio e esclarecido se empenha em
 bem governar, um general hábil emprega toda a sua energia em preservar o
-exército e empregá-Ia na salvaguarda do Estado. 
-75
-CAPÍTULO XIII
-DA ARTE DE SEMEAR A DISCÓRDIA
+exército e empregá-Ia na salvaguarda do Estado.
+
+### XIII - da arte de semear a discórdia
+
 Sun Tzu diz: Se, tendo recrutado um exército de cem mil homens, deves
 conduzi-Ia muito longe, é preciso contar que, dentro e fora, haverá comoção e
 rumor. As cidades e as aldeias de onde saíram os homens que compõem tuas
@@ -2223,7 +1979,6 @@ Não poupes grandes somas de dinheiro. Não lamentes o dinheiro empregado
 seja no campo inimigo, para conseguir traidores ou obter conhecimentos
 exatos, seja para o pagamento dos teus soldados: quanto mais gastares, mais
 ganharás. É um dinheiro que renderá juros elevados.
-76
 Mantém espiões por toda a parte. Informa-te de tudo, nada negligencies
 do que descobrires. Mas, tendo descoberto algo, sê extremamente discreto.
 Quando usares algum artifício, não é pela invocação de espíritos nem
@@ -2256,8 +2011,7 @@ inimigo.
 A divisão de morte é aquela pela qual, após dar falsos avisos sobre o
 estado de nossas forças, espalhamos rumores tendenciosos, inclusive na corte
 do soberano inimigo, o qual, acreditando na veracidade dos boatos, toma
-atitudes condizentes com as falsas informações recebidas. 
-77
+atitudes condizentes com as falsas informações recebidas.
 A divisão de vida é aquela mediante a qual se distribui dinheiro em
 abundância, para todos os desertores do campo inimigo.
 Se souberes infiltrar traidores nas cidades e nos vilarejos inimigos, em
@@ -2291,8 +2045,7 @@ sob tuas bandeiras para se livrar dos temores que os angustiavam em
 permanência, e também para salvar a pele.
 Seus pais, seus aliados ou seus amigos serão acusados, perseguidos,
 condenados à morte. As conspirações se formarão, a ambição vicejará, só
-haverá perfídias, execuções, desordens e revoltas generalizadas. 
-78
+haverá perfídias, execuções, desordens e revoltas generalizadas.
 O que estás esperando para apoderar-te de um reino cujos habitantes já
 te consideram como senhor?
 Se recompensares aqueles que passaram para teu campo para se
@@ -2326,10 +2079,9 @@ lista dos principais oficiais que estão a seu serviço. Conhece seus nomes,
 sobrenomes, o número de seus filhos, de seus parentes, de seus amigos, de
 seus servos. Que nada se passe na casa deles sem que estejas informado.
 Manterás espiões por toda a parte. Deves supor que o inimigo fará o
-mesmo. Se chegas a descobri-Ias, evita condená-Ias à morte. Seus dias 
-79
-devem ser-te infinitamente preciosos. Os espiões dos inimigos te servirão
-eficazmente, se controlares tuas próprias atitudes, tuas palavras e todas as
+mesmo. Se chegas a descobri-Ias, evita condená-Ias à morte. Seus dias
+
+devem ser-te infinitamente preciosos. Os espiões dos inimigos te servirão eficazmente, se controlares tuas próprias atitudes, tuas palavras e todas as
 tuas ações. Assim, eles só darão falsas pistas aos seus mandatários.
 Enfim, um bom general deve tirar partido de tudo. Nada deve
 surpreendê-Ia, aconteça o que acontecer. Mas, acima de tudo, deve colocar
@@ -2344,6 +2096,4 @@ Que livro faz a apologia desses grandes ministros? A História chamouos
 alguma vez de traidores da pátria, ou considerou-os como rebeldes a seus
 soberanos? Somente um príncipe esclarecido e um general digno podem aliciar
 os espíritos mais penetrantes e realizar feitos notáveis. Um exército sem
-agentes secretos é um homem cego e surdo. 
-80
-
+agentes secretos é um homem cego e surdo.
