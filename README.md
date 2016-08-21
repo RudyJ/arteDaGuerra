@@ -4,13 +4,19 @@
 
 *TRADUZIDO DO FRANCÊS (L'arl de Ia guerre) POR SUELI BARROS CASSAL*
 
+---
+
 ## Sumário
+
+---
 
 [TOC]
 
 ---
 
 ## Prefácio
+
+---
 
 ### O mais antigo tratado militar do mundo
 
@@ -129,6 +135,8 @@ O tempo e as circunstâncias fizeram com que o rei fizesse o luto. Os inimigos e
 
 ## I - da avaliação
 
+---
+
 Sun Tzu diz:
 
 > A guerra tem importância crucial para o Estado. É o reino da vida e da morte. Dela depende a conservação ou a ruína do império. Urge bem regulá-Ia. Quem não reflete seriamente sobre o assunto evidencia uma indiferença condenável pela conservação ou pela perda do que mais se preza.
@@ -224,49 +232,96 @@ Com numerosos cálculos, pode-se obter a vitória. Teme quando os cálculos fore
 
 ## II - do comando da guerra
 
+---
+
 Sun Tzu diz:
 
-> Suponho que comeces tua campanha com um exército de cem mil homens, que dispões de dois mil carros, mil destinados à marcha, e os outros reservados para o transporte de suprimentos. Ademais, transportas com cuidado tudo o que pode servir para o reparo de armas e carros. Suponho que tens víveres e munições suficientes, que à tua volta haja, em toda a parte, provisões para a manutenção do exército. 
-
-Suponho ainda que os artesãos e outros homens que não pertencem ao corpo dos soldados já o precederam ou marcham em teu séquito. Suponho também que os diferentes suprimentos, tanto para uso bélico quanto pessoal, estejam permanentemente ao abrigo da intempérie e de acidentes imprevistos.
-
-Suponho que tens mil onças de prata para distribuir diariamente às tropas, cujo soldo é sempre pago em dia e na mais rigorosa exatidão. Nesse caso, podes avançar direto contra o inimigo. Atacá-Io e vencê-Io será para ti a mesma coisa.
+> - Suponho que comeces tua campanha com um exército de cem mil homens, que dispões de dois mil carros, mil destinados à marcha, e os outros reservados para o transporte de suprimentos. Ademais, transportas com cuidado tudo o que pode servir para o reparo de armas e carros.
+> - Suponho que tens víveres e munições suficientes, que à tua volta haja, em toda a parte, provisões para a manutenção do exército. 
+> - Suponho ainda que os artesãos e outros homens que não pertencem ao corpo dos soldados já o precederam ou marcham em teu séquito.
+> - Suponho também que os diferentes suprimentos, tanto para uso bélico quanto pessoal, estejam permanentemente ao abrigo da intempérie e de acidentes imprevistos.
+> - Suponho que tens mil onças de prata para distribuir diariamente às tropas, cujo soldo é sempre pago em dia e na mais rigorosa exatidão.
+>
+> Nesse caso, podes avançar direto contra o inimigo. Atacá-Io e vencê-Io será para ti a mesma coisa.
 
 **Digo mais**: Não adies o momento do combate, nem esperes que tuas armas se enferrujem e o fio de tuas espadas se embote. A vitória é o principal objetivo da guerra.
 
-Tratando-se de tomar uma cidade, apressa-te em sitiá-Ia, concentra nisso todas as tuas forças. Precipita-te. Se falhares, tuas tropas correm o risco de ficar muito tempo em campanha, o que será uma fonte de funestos infortúnios.
+---
 
-Os cofres do príncipe que serves se esvaziarão, tuas armas - embotadas pela ferrugem - não poderão mais servir, o entusiasmo de teus soldados arrefecerá, sua coragem e força esmorecerão, as provisões se esgotarão e, talvez, tu mesmo fiques reduzido a uma situação desesperadora.
+#### Consequências de falhar
 
-Informados do estado dramático em que te encontras, teus inimigos emergirão lépidos, arremeterão contra ti e te esmagarão. Embora até então tenhas sido respeitado, doravante tua reputação estará maculada. Apesar de já teres dado mostras brilhantes de valor, o último revés apagará toda a glória acumulada.
+Tratando-se de tomar uma cidade, apressa-te em sitiá-Ia, concentra nisso todas as tuas forças. *Precipita-te*.
 
-Repito: não poderás manter as tropas em campanha por muito tempo, sem acarretar grande prejuízo ao Estado e sem dar um golpe mortal em tua própria reputação.
+Se falhares, tuas tropas correm o risco de ficar muito tempo em campanha, o que será uma fonte de funestos infortúnios:
 
-Aqueles que dominam os verdadeiros princípios da arte militar não atacam duas vezes. Tudo termina já na primeira campanha. Não consomem suprimentos em vão, durante anos consecutivos. Fazem com que suas tropas subsistam às expensas do inimigo e poupam ao Estado os imensos gastos em que este incorre quando tem que transportar provisões para lugares distantes.
+- Os cofres do príncipe que serves se esvaziarão, tuas armas - embotadas pela ferrugem - não poderão mais servir, o entusiasmo de teus soldados arrefecerá, sua coragem e força esmorecerão, as provisões se esgotarão e, talvez, tu mesmo fiques reduzido a uma situação desesperadora.
 
-Tais generais não ignoram - e tu também deves estar ciente disso - que nada exaure mais um reino do que as despesas de guerra pois, quer o exército esteja nas fronteiras, quer em países longínquos, o povo sempre é penalizado.
+- Informados do estado dramático em que te encontras, teus inimigos emergirão lépidos, arremeterão contra ti e te esmagarão.
 
-O custo de vida aumenta, as mercadorias escasseiam, e mesmo aqueles que, em tempos de paz, usufruem uma boa situação, em breve já não terão com o que comprar.
+Embora até então tenhas sido respeitado, doravante tua reputação estará maculada. Apesar de já teres dado mostras brilhantes de valor, o último revés apagará toda a glória acumulada.
 
-Ávido, o príncipe recolhe o tributo em espécie que cada família lhe deve; e a miséria vai se espraiando do seio das cidades até o campo. Das dez partes do necessário, tem-se que abrir mão de sete. Todos têm seu quinhão nos males comuns, inclusive o soberano. Couraças, elmos, flechas, arcos, escudos, carros, lanças, dardos, tudo isso estragará. Os cavalos, e até os bois que lavram as terras, definharão e, das dez partes de sua despesa ordinária, será constrangido a eliminar seis.
+**Repito**: não poderás manter as tropas em campanha por muito tempo, sem acarretar grande prejuízo ao Estado e sem dar um golpe mortal em tua própria reputação.
 
-Visando prevenir todos esses desastres, um hábil general faz tudo para abreviar as campanhas, e para abastecer-se às expensas do inimigo, custe o que custar.
+---
 
-Se o exército inimigo tem uma medida de grão em seu campo, dispõe de vinte no teu. Se teu inimigo tem cento e vinte libras de forragem para seus cavalos, dispõe de duas mil e quatrocentas para os teus. Não percas nenhuma ocasião de importuná-lo. Faz com que ele pereça à míngua. Encontra meios para irritá-lo, para que ele caia em alguma armadilha. Diminui-lhe ao máximo as forças, desorientando-o, dizimando-lhe, de vez em quando, alguns soldados, saqueando seus comboios, seus equipamentos e tudo o que te poderá ser útil.
+#### Custos da guerrear
 
-Quando tuas tropas tiverem tomado do inimigo mais de dez carros, recompensa prodigamente tanto aqueles que conduziram a operação quanto os que a executaram. Junta esses carros aos teus, depois de eliminar as insígnias inimigas que por ventura nele estejam gravadas.
+Aqueles que dominam os verdadeiros princípios da arte militar:
 
-Trata bem os prisioneiros, alimenta-os como se fossem teus próprios soldados. Na medida do possível, faz com que se sintam melhor sob tua égide do que em seu próprio campo, ou mesmo em sua pátria. Jamais os deixes ociosos. Tira partido de seus serviços, com as devidas precauções.
+- Não atacam duas vezes. Tudo termina já na primeira campanha;
+- Não consomem suprimentos em vão, durante anos consecutivos;
+- Fazem com que suas tropas subsistam às expensas do inimigo; e
+- Poupam ao Estado os imensos gastos em que este incorre quando tem que transportar provisões para lugares distantes.
+
+Tais generais não ignoram - *e tu também deves estar ciente disso* - que:
+
+- Nada exaure mais um reino do que as despesas de guerra pois, quer o exército esteja nas fronteiras, quer em países longínquos, o povo sempre é penalizado.
+- O custo de vida aumenta, as mercadorias escasseiam, e mesmo aqueles que, em tempos de paz, usufruem uma boa situação, em breve já não terão com o que comprar.
+
+- Ávido, o príncipe recolhe o tributo em espécie que cada família lhe deve; e a miséria vai se espraiando do seio das cidades até o campo. Das dez partes do necessário, tem-se que abrir mão de sete.
+- Todos têm seu quinhão nos males comuns, inclusive o soberano. Couraças, elmos, flechas, arcos, escudos, carros, lanças, dardos, tudo isso estragará. Os cavalos, e até os bois que lavram as terras, definharão e, das dez partes de sua despesa ordinária, será constrangido a eliminar seis.
+
+---
+
+#### Guerrear às expensas do inimigo
+
+Visando prevenir todos esses desastres, um hábil general faz tudo para abreviar as campanhas, e para abastecer-se **às expensas** do inimigo, custe o que custar:
+
+##### Provisões
+
+- Se o exército inimigo tem uma medida de grão em seu campo, dispõe de vinte no teu.
+- Se teu inimigo tem cento e vinte libras de forragem para seus cavalos, dispõe de duas mil e quatrocentas para os teus.
+
+##### Presença ao inimigo
+
+- Não percas nenhuma ocasião de importuná-lo.
+- Faz com que ele pereça à míngua.
+- Encontra meios para irritá-lo, para que ele caia em alguma armadilha.
+- Diminui-lhe ao máximo as forças, desorientando-o, dizimando-lhe, de vez em quando, alguns soldados, saqueando seus comboios, seus equipamentos e tudo o que te poderá ser útil.
+
+##### Carros
+
+- Quando tuas tropas tiverem tomado do inimigo mais de dez carros, recompensa prodigamente tanto aqueles que conduziram a operação quanto os que a executaram.
+- Junta esses carros aos teus, depois de eliminar as insígnias inimigas que por ventura nele estejam gravadas.
+
+##### Prisioneiros
+
+- Trata bem os prisioneiros, alimenta-os como se fossem teus próprios soldados.
+- Na medida do possível, faz com que se sintam melhor sob tua égide do que em seu próprio campo, ou mesmo em sua pátria.
+- Jamais os deixes ociosos.
+- Tira partido de seus serviços, com as devidas precauções.
 
 **Resumindo:** conduz-te em relação a eles como se fossem tropas que se tivessem engajado livremente sob teus estandartes. Eis o que chamo ganhar uma batalha e tornar-se mais forte.
 
-Se fizeres exatamente o que acabo de indicar, os sucessos acompanharão todos os teus passos, em toda a parte serás vencedor. Pouparás a vida de teus soldados, fortalecerás os antigos domínios de teu país, acrescentando-lhe novos, aumentarás o esplendor e a glória do Estado e,
-tanto o príncipe quanto os súditos, te serão gratos pela doce tranqüilidade na
-qual correm doravante os seus dias.
+Se fizeres exatamente o que acabo de indicar, os sucessos acompanharão todos os teus passos, em toda a parte serás vencedor. Pouparás a vida de teus soldados, fortalecerás os antigos domínios de teu país, acrescentando-lhe novos, aumentarás o esplendor e a glória do Estado e, tanto o príncipe quanto os súditos, te serão gratos pela doce tranqüilidade na qual correm doravante os seus dias.
 
 Na guerra, o essencial é a vitória e não campanhas prolongadas. O general que domina a arte da guerra é o árbitro do destino do povo e dos rumos da vitória. Que objetos podem ser mais dignos de tua atenção e de todos os teus esforços?
 
+---
+
 ## III - da arte de vencer sem desembainhar a espada
+
+---
 
 #### Preparativos de guerra
 
@@ -415,18 +470,19 @@ Nomear um general é da alçada do soberano; decidir uma batalha cabe ao general
 
 Para vencer os inimigos, cinco circunstâncias são necessárias:
 
-{0}.  Saber quando combater e quando bater em retirada.
+- Saber quando combater e quando bater em retirada.
 
-{0}.  Saber lidar com o pouco e o muito, segundo as circunstâncias.
+- Saber lidar com o pouco e o muito, segundo as circunstâncias.
 
-{0}.  Compor habilmente suas fileiras. Mênsio diz: 
+- Compor habilmente suas fileiras. Mênsio diz: 
 
-   > O momento oportuno não é tão importante quanto as vantagens do terreno;
-   >
-   > e tudo isso não é tão relevante quanto a harmonia das relações humanas.
-{0}.  Preparar-se, prudentemente, para afrontar o inimigo potencial. Não prever, dando como pretexto a inferioridade do adversário, é o maior dos crimes. Estar preparado, **independente de qualquer contingência**, é a maior das virtudes.
+- > O momento oportuno não é tão importante quanto as vantagens do terreno;
+  >
+  > e tudo isso não é tão relevante quanto a harmonia das relações humanas.
 
-{0}.  Evitar as ingerências do soberano em tudo que executar, para a glória de seus exércitos.
+- Preparar-se, prudentemente, para afrontar o inimigo potencial. Não prever, dando como pretexto a inferioridade do adversário, é o maior dos crimes. Estar preparado, **independente de qualquer contingência**, é a maior das virtudes.
+
+- Evitar as ingerências do soberano em tudo que executar, para a glória de seus exércitos.
 
 Esses são os cinco caminhos da vitória.
 
