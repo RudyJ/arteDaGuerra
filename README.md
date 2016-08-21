@@ -232,7 +232,7 @@ Suponho ainda que os artesãos e outros homens que não pertencem ao corpo dos s
 
 Suponho que tens mil onças de prata para distribuir diariamente às tropas, cujo soldo é sempre pago em dia e na mais rigorosa exatidão. Nesse caso, podes avançar direto contra o inimigo. Atacá-Io e vencê-Io será para ti a mesma coisa.
 
-Digo mais: Não adies o momento do combate, nem esperes que tuas armas se enferrujem e o fio de tuas espadas se embote. A vitória é o principal objetivo da guerra.
+**Digo mais**: Não adies o momento do combate, nem esperes que tuas armas se enferrujem e o fio de tuas espadas se embote. A vitória é o principal objetivo da guerra.
 
 Tratando-se de tomar uma cidade, apressa-te em sitiá-Ia, concentra nisso todas as tuas forças. Precipita-te. Se falhares, tuas tropas correm o risco de ficar muito tempo em campanha, o que será uma fonte de funestos infortúnios.
 
@@ -268,80 +268,102 @@ Na guerra, o essencial é a vitória e não campanhas prolongadas. O general que
 
 ## III - da arte de vencer sem desembainhar a espada
 
+#### Preparativos de guerra
+
 Sun Tzu diz:
 
-> Eis algumas máximas de que deves impregnar-te antes de pensar em sitiar cidades ou ganhar batalhas.
+> Eis algumas máximas de que deves impregnar-te antes de pensar em sitiar cidades ou ganhar batalhas:
 
-Conservar os domínios e todos os direitos do príncipe que serves deve ser o primeiro de teus cuidados. Só deves ampliá-Ios, usurpando o território inimigo, quando for imprescindível.
+- Conservar os domínios e todos os direitos do príncipe que serves deve ser o primeiro de teus cuidados. Só deves ampliá-Ios, usurpando o território inimigo, quando for imprescindível.
 
-Deves ocupar-te principalmente em assegurar a tranqüilidade das cidades de teu próprio país. Perturbar as cidades inimigas deve ser a hipótese mais desfavorável.
+- Deves ocupar-te principalmente em assegurar a tranqüilidade das cidades de teu próprio país. Perturbar as cidades inimigas deve ser a hipótese mais desfavorável.
 
-Deves pensar em colocar ao abrigo todos os vilarejos amigos. Somente a necessidade pode arrastar-te a irromper nos vilarejos Inimigos.
+- Deves pensar em colocar ao abrigo todos os vilarejos amigos. Somente a necessidade pode arrastar-te a irromper nos vilarejos Inimigos.
 
-Deves impedir que os vilarejos e as choças dos camponeses sofram qualquer dano. Só uma extrema penúria pode levar-te a saquear e a devastar as instalações agrícolas de teus inimigos.
+- Deves impedir que os vilarejos e as choças dos camponeses sofram qualquer dano. Só uma extrema penúria pode levar-te a saquear e a devastar as instalações agrícolas de teus inimigos.
 
-Deves almejar como aquilo que há de mais perfeito, conservar intatos os domínios dos inimigos. Só deves destruí-Ias em caso de extrema necessidade.
+- Deves almejar como aquilo que há de mais perfeito, conservar intatos os domínios dos inimigos. Só deves destruí-Ias em caso de extrema necessidade.
+
 
 Se um general age assim, sua conduta ombreará com a dos mais virtuosos personagens. Ela se espelhará no Céu e na Terra, cujas obras buscam a produção e a conservação e não a destruição.
 
 Se essas máximas estiverem bem gravadas em teu coração, garanto o teu sucesso.
 
-Repito: a melhor política guerreira é tomar um Estado intato; uma política inferior consiste em arruiná-Io.
+> **Repito**: a melhor política guerreira é tomar um Estado **intato**; uma política inferior consiste em arruiná-Io.
 
-É preferível aprisionar a destruir o exército inimigo; é melhor tomar um batalhão intato do que fulminá-Io.
+- É preferível aprisionar a destruir o exército inimigo; é melhor tomar um batalhão intato do que fulminá-Io.
 
-Cem combates tivesses que travar, cem vitórias seriam teu fruto.
+- Cem combates tivesses que travar, cem vitórias seriam teu fruto.
 
-Não procures vencer teus inimigos à custa de combates e de vitórias.
+- Não procures vencer teus inimigos à custa de combates e de vitórias.
+
 
 Esse é um caso em que o "bom" é melhor do que o "excelente". Quanto mais te elevares acima do "bom", mais te aproximarás do "pernicioso" e do "ruim".
 
 É preferível subjugar o inimigo sem travar combate. Nesse caso, quanto mais te elevares acima do bom, mais te aproximarás do incomparável e do excelente.
 
+---
+
+#### Obter vantagem
+
 Os grandes generais vencem descobrindo todos os artifícios do inimigo, sabotando-Ihes os projetos, semeando a discórdia entre seus partidários, mantendo-o sempre acossado, interceptando reforços estrangeiros, e impedindo-o de tomar qualquer decisão mais vantajosa para ele.
 
-Sun Tzu diz: é de suprema importância na guerra atacar a estratégia do inimigo.
+Sun Tzu diz:
 
-Sobressai-se em resolver as dificuldades quem as resolve antes que apareçam.
+>  É de suprema importância na guerra atacar a estratégia do inimigo.
 
-Sobressai-se na conquista quem conquista o troféu antes que os temores de seu inimigo se concretizem.
+- Sobressai-se em resolver as dificuldades quem as resolve antes que apareçam.
 
-Ataca a estratégia do adversário na raiz. Depois, rompe suas alianças. Em seguida, ataca seu exército.
+- Sobressai-se na conquista quem conquista o troféu antes que os temores de seu inimigo se concretizem.
+
+- Ataca a estratégia do adversário na raiz. Depois, rompe suas alianças. Em seguida, ataca seu exército.
+
+
+---
+
+#### Cerco
 
 A pior política consiste em atacar as cidades. Apenas consente nisso se não houver outra saída. Pensa no longo tempo necessário para preparar veículos, armas, equipamentos, e para construir rampas ao longo das muralhas.
 
-Se fores obrigado a sitiar uma cidade e a destruí-Ia, dispõe de tal sorte teus veículos, escudos e todas as máquinas necessárias para o assalto, para que tudo esteja pronto quando chegar a hora de atacar.
+Se fores obrigado a sitiar uma cidade e a destruí-Ia:
 
-Age para que a rendição não se prolongue por mais de três meses.
+- Dispõe de tal sorte teus veículos, escudos e todas as máquinas necessárias para o assalto, para que tudo esteja pronto quando chegar a hora de atacar.
+- Age para que a rendição não se prolongue por mais de três meses.
+- Quando este prazo expirar, se ainda não tiveres atingido teus objetivos, certamente terás cometido alguns erros. Empenha-te em repará-Ios.
+- Partindo para o assalto, à frente de tuas tropas, redobra os esforços.
 
-Quando este prazo expirar, se ainda não tiveres atingido teus objetivos, certamente terás cometido alguns erros. Empenha-te em repará-Ios.
+- Imita a vigilância, a diligência, o entusiasmo e a tenacidade das formigas.
 
-Partindo para o assalto, à frente de tuas tropas, redobra os esforços.
-
-Imita a vigilância, a diligência, o entusiasmo e a tenacidade das formigas.
 
 Suponho que terás construído antecipadamente as trincheiras e outras obras necessárias, que terás edificado fortes para descobrir o que se passa no interior da cidade sitiada, e terás contornado todos os inconvenientes que tua prudência te recomenda. Apesar de todas essas precauções, se de três partes de teus soldados tiveres a infelicidade de perder uma, sem poderes alardear vitória, convence-te de que não atacaste bem.
+
+---
+
+#### Objetivos e manobras
 
 Um hábil general jamais se encontrará reduzido a tais extremos. Ele conhece a arte de humilhar os seus inimigos sem travar batalhas. Sem derramar uma gota de sangue, sem mesmo desembainhar a espada, consegue tomar as cidades. Sem colocar os pés em reinos estrangeiros, descobre o meio de conquistá-Ios.
 
 Sem operações prolongadas e sem perder um tempo considerável à testa de suas tropas, conquista uma glória imortal para seu príncipe, assegurando a felicidade de seus compatriotas e fazendo com que o universo lhe seja reconhecido pelo repouso e pela paz conquistados.
 
-Esse é o alvo que todos os comandantes devem buscar incessantemente e sem jamais esmorecer.
+Sun Tzu diz:
+
+> Esse é o alvo que todos os comandantes devem buscar incessantemente e sem jamais esmorecer.
 
 O objetivo de um general hábil é apoderar-se do reino inimigo quando este está intato; assim suas tropas não se esgotarão e seu triunfo será completo. Esta é a arte da estratégia vitoriosa.
 
-Há uma infinidade de situações diferentes em que podes te encontrar em relação ao inimigo. Nem todas poderiam ser previstas de antemão; logo, evito maiores detalhes. Tua clarividência e tua experiência te sugerirão o que deves fazer, à medida que as circunstâncias se apresentem. Entretanto, vou dar-te alguns conselhos gerais, que poderás usar, se necessário.
+Há uma infinidade de situações diferentes em que podes te encontrar em relação ao inimigo. Nem todas poderiam ser previstas de antemão; logo, evito maiores detalhes. Tua clarividência e tua experiência te sugerirão o que deves fazer, à medida que as circunstâncias se apresentem. Entretanto, vou dar-te alguns conselhos gerais, que poderás usar, se necessário:
 
-Se fores dez vezes mais numeroso que o inimigo, cerca-o de todos os lados; não deixes nenhuma passagem livre; age de forma que ele não possa evadir-se para acampar em outra parte, nem receber qualquer socorro.
+- Se fores dez vezes mais numeroso que o inimigo, cerca-o de todos os lados; não deixes nenhuma passagem livre; age de forma que ele não possa evadir-se para acampar em outra parte, nem receber qualquer socorro.
 
-Se teu contingente for cinco vezes superior, dispõe teu exército de forma que ele possa atacar pelos quatro flancos simultaneamente, no momento oportuno.
-Se tens o dobro da força do inimigo, contenta-te em dividir teu exército em dois.
-
-Mas se, em ambas as partes, a quantidade de guerreiros é a mesma, só te resta aventurar-te ao combate.
-
-Se fores inferior, fica alerta. O menor erro pode ser fatal. Tenta colocarte a salvo, e evita, se possível, entrar em choque com o adversário. A prudência e a firmeza de um punhado de pessoas pode conseguir extenuar e dominar mesmo um exército numeroso. Assim, és ao mesmo tempo capaz de te proteger e de obter uma vitória completa.
+- Se teu contingente for cinco vezes superior, dispõe teu exército de forma que ele possa atacar pelos quatro flancos simultaneamente, no momento oportuno.
+- Se tens o dobro da força do inimigo, contenta-te em dividir teu exército em dois. Mas se, em ambas as partes, a quantidade de guerreiros é a mesma, só te resta aventurar-te ao combate.
+- Se fores inferior, fica alerta. O menor erro pode ser fatal. Tenta colocarte a salvo, e evita, se possível, entrar em choque com o adversário. A prudência e a firmeza de um punhado de pessoas pode conseguir extenuar e dominar mesmo um exército numeroso. Assim, és ao mesmo tempo capaz de te proteger e de obter uma vitória completa.
 
 Quem está à testa dos exércitos é o sustentáculo do Estado. Se agir corretamente, o reino será próspero. Ao contrário, se o comandante não tiver as qualidades necessárias para desempenhar dignamente seu cargo, o reino sofrerá inelutavelmente as conseqüências e talvez fique à beira do abismo.
+
+---
+
+#### Erros críticos a serem evitados
 
 Um general só pode servir bem o Estado de um único modo, mas pode arruiná-Io de diversas maneiras. É preciso muito esforço e uma conduta calcada na bravura e na prudência para ser vitorioso: um só passo em falso põe tudo a perder. Um general pode cometer muitos erros:
 
@@ -363,6 +385,10 @@ Um general só pode servir bem o Estado de um único modo, mas pode arruiná-Io 
 
 Um general que cometer tais erros tornará o exército capenga, esgotará homens, víveres e o reino, e se tornará a vítima infame de sua própria imperícia.
 
+---
+
+#### Males ao comandar exércitos
+
 Sun Tzu diz:
 
 > No comando dos exércitos há sete males cruciais:
@@ -381,15 +407,26 @@ Isso equivale a esperar autorização de um superior para apagar o fogo: ante qu
 
 Este é o meu ensinamento.
 
+---
+
+#### O caminho da vitória
+
 Nomear um general é da alçada do soberano; decidir uma batalha cabe ao general. Um príncipe esclarecido deve escolher o homem que convém, revesti-Io de responsabilidades e aguardar os resultados.
 
 Para vencer os inimigos, cinco circunstâncias são necessárias:
 
-1. Saber quando combater e quando bater em retirada.
-2. Saber lidar com o pouco e o muito, segundo as circunstâncias.
-3. Compor habilmente suas fileiras. Mênsio diz: "O momento oportuno não é tão importante quanto as vantagens do terreno; e tudo isso não é tão relevante quanto a harmonia das relações humanas".
-4. Preparar-se, prudentemente, para afrontar o inimigo potencial. Não prever, dando como pretexto a inferioridade do adversário, é o maior dos crimes. Estar preparado, independente de qualquer contingência, é a maior das virtudes.
-5. Evitar as ingerências do soberano em tudo que executar, para a glória de seus exércitos.
+{0}.  Saber quando combater e quando bater em retirada.
+
+{0}.  Saber lidar com o pouco e o muito, segundo as circunstâncias.
+
+{0}.  Compor habilmente suas fileiras. Mênsio diz: 
+
+   > O momento oportuno não é tão importante quanto as vantagens do terreno;
+   >
+   > e tudo isso não é tão relevante quanto a harmonia das relações humanas.
+{0}.  Preparar-se, prudentemente, para afrontar o inimigo potencial. Não prever, dando como pretexto a inferioridade do adversário, é o maior dos crimes. Estar preparado, **independente de qualquer contingência**, é a maior das virtudes.
+
+{0}.  Evitar as ingerências do soberano em tudo que executar, para a glória de seus exércitos.
 
 Esses são os cinco caminhos da vitória.
 
@@ -398,6 +435,8 @@ Conhece teu inimigo e conhece-te a ti mesmo; se tiveres cem combates a travar, c
 Se ignoras teu inimigo e conheces a ti mesmo, tuas chances de perder e de ganhar serão idênticas.
 
 Se ignoras ao mesmo tempo teu inimigo e a ti mesmo, só contarás teus combates por tuas derrotas.
+
+---
 
 ## IV - da arte de manobrar as tropas
 
@@ -437,11 +476,7 @@ Deves procurar conhecer a arte de vencer dos que trilharam esse caminho com honr
 
 Conseguir vitórias por meio de combates foi considerado em todos os tempos, pelo universo inteiro, como algo bom. Ouso dizer-te, todavia, que esse é mais um caso em que o "excelente" geralmente é pior que o "ruim". Predizer uma vitória que o vulgo pode prever, e ser considerado universalmente sábio, não significa ter habilidade bélica. Pois não requer muita força levantar a penugem dos coelhos no outono. Não são necessários olhos penetrantes para distinguir o sol da lua. Nem se requer ouvido apurado para ouvir o ronco do trovão. Nada mais natural, nada mais fácil, nada mais simples do que isso.
 
-Os hábeis guerreiros não encontram dificuldades maiores do que estas nos combates; eles agem de forma que vencem a batalha depois de terem criado as condições apropriadas.
-
-Eles prevêem todas as eventualidades. Conhecem a situação do inimigo, conhecem-lhes as forças, e não ignoram o que podem fazer e até onde podem ir. A vitória é uma decorrência natural desse saber.
-
-Assim, as vitórias obtidas por um mestre na arte da guerra não lhe garantiriam nem a reputação de sábio, nem o mérito de homem de valor.
+Os hábeis guerreiros não encontram dificuldades maiores do que estas nos combates; eles agem de forma que vencem a batalha depois de terem criado as condições apropriadas. Eles prevêem todas as eventualidades. Conhecem a situação do inimigo, conhecem-lhes as forças, e não ignoram o que podem fazer e até onde podem ir. A vitória é uma decorrência natural desse saber. Assim, as vitórias obtidas por um mestre na arte da guerra não lhe garantiriam nem a reputação de sábio, nem o mérito de homem de valor.
 
 O homem comum não compreende que uma vitória seja obtida antes que a situação se cristalize.
 
@@ -460,6 +495,10 @@ Um exército vitorioso ganha antes de ter deflagrado a batalha; um exército fad
 Aqueles que são zelosos na arte da guerra cultivam o Tao e aderem à sua doutrina; são, portanto, capazes de formular políticas de vitória.
 
 Eles não permitem que as tropas mostrem uma confiança demasiado cega, uma confiança que degenera em presunção. As tropas que sonham com a vitória são tímidas, presunçosas ou debilitadas pela preguiça. Ao contrário, aquelas que, sem pensar na vitória, exigem o combate, são tropas enrijecidas no trabalho, aguerridas, destinadas a vencer.
+
+---
+
+Elementos da Arte da Guerra
 
 Agora, eis os cinco elementos da arte da guerra:
 
