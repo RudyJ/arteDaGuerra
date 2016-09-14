@@ -483,39 +483,36 @@ Se ignoras ao mesmo tempo teu inimigo e a ti mesmo, só contarás teus combates 
 
 Sun Tzu diz:
 
-> Antigamente, os combatentes aguerridos primeiro se tornavam invencíveis. Depois, aguardavam que o inimigo ficasse vulnerável e jamais se engajavam em guerras que previam ter desfecho desfavorável.
+> Antigamente, os combatentes aguerridos primeiro se tornavam invencíveis.
+>
+> Depois, aguardavam que o inimigo ficasse vulnerável e jamais se engajavam em guerras que previam ter desfecho desfavorável.
+>
+> Antes de iniciarem o combate, asseguravam-se da vitória.
 
-Antes de iniciarem o combate, asseguravam-se da vitória.
+### Defender, atacar e vencer
 
-Se a ocasião de investir contra o inimigo não era favorável, aguardavam tempos mais propícios.
+Assim, os hábeis generais sabiam primeiramente o que deviam temer ou esperar, e avançavam ou recuavam, lutavam ou se entrincheiravam, segundo o conhecimento que tinham, tanto a respeito das próprias tropas quanto das do inimigo.
 
-Tinham como princípio que só se pode ser vencido por erro próprio e que só se atinge a vitória por erro do inimigo.
+- Tinham como princípio que só se pode ser vencido por erro próprio e que só se atinge a vitória por erro do inimigo.
+- Acreditando-se superiores, não hesitavam em tomar a iniciativa; acreditando-se inferiores, batiam em retirada e ficavam na defensiva.
+- Se a ocasião de investir contra o inimigo não era favorável, aguardavam tempos mais propícios.
+- A garantia de nos tornarmos invencíveis está em nossas próprias mãos; tornar o inimigo vulnerável só depende dele próprio.
+- Conhecer os meios que asseguram a vitória não significa obtê-Ia.
+- Quem se defende mostra que sua força é insuficiente; quem ataca, mostra que é abundante.
+- A arte de manter-se na defensiva não iguala a de combater com sucesso.
+- A invencibilidade está na defesa; a possibilidade de vitória, no ataque.
 
-A garantia de nos tornarmos invencíveis está em nossas próprias mãos.
+Aqueles que combatem devem elevar-se nas alturas; ou seja, devem combater de tal forma que o universo inteiro vibre com o estrépito de sua glória. Os que querem brilhar no ataque devem elevar-se aos céus.
 
-Tornar o inimigo vulnerável só depende dele próprio.
-
-Conhecer os meios que asseguram a vitória não significa obtê-Ia.
-
-Assim, os hábeis generais sabiam primeiramente o que deviam temer ou esperar, e avançavam ou recuavam, lutavam ou se entrincheiravam, segundo o conhecimento que tinham, tanto a respeito das próprias tropas quanto das do inimigo. Acreditando-se superiores, não hesitavam em tomar a iniciativa.
-
-Acreditando-se inferiores, batiam em retirada e ficavam na defensiva.
-
-A invencibilidade está na defesa; a possibilidade de vitória, no ataque.
-
-Quem se defende mostra que sua força é insuficiente; quem ataca, mostra que é abundante.
-
-A arte de manter-se na defensiva não iguala a de combater com sucesso.
-
-Os generais hábeis na defesa devem esconder-se no âmago da terra.
-
-Os que querem brilhar no ataque devem elevar-se aos céus. Para colocar-se na defensiva contra o inimigo, é preciso esconder-se no seio da terra, como os veios d'água que não se sabe de onde manam e cuja ramificações são insondáveis. Assim, ocultarás todas as tuas diligências, e serás impenetrável.
-
-Aqueles que combatem devem elevar-se nas alturas; ou seja, devem combater de tal forma que o universo inteiro vibre com o estrépito de sua glória.
+Para colocar-se na defensiva contra o inimigo, é preciso esconder-se no seio da terra, como os veios d'água que não se sabe de onde emanam e cuja ramificações são insondáveis. Assim, ocultarás todas as tuas diligências, e serás impenetrável.
 
 Em ambos os casos, deve-se visar à própria integridade física.
 
 Deves procurar conhecer a arte de vencer dos que trilharam esse caminho com honra. Querer suplantar a todos, e procurar requintar-se nas artes militares, significa correr o risco de não igualar os grandes mestres, significa expor-se a ficar infinitamente aquém pois, nesse caso, o ótimo é inimigo do bom.
+
+---
+
+### Vencer através do combate
 
 Conseguir vitórias por meio de combates foi considerado em todos os tempos, pelo universo inteiro, como algo bom. Ouso dizer-te, todavia, que esse é mais um caso em que o "excelente" geralmente é pior que o "ruim". Predizer uma vitória que o vulgo pode prever, e ser considerado universalmente sábio, não significa ter habilidade bélica. Pois não requer muita força levantar a penugem dos coelhos no outono. Não são necessários olhos penetrantes para distinguir o sol da lua. Nem se requer ouvido apurado para ouvir o ronco do trovão. Nada mais natural, nada mais fácil, nada mais simples do que isso.
 
@@ -535,7 +532,7 @@ Não cometer erros significa que - *faça o que fizer* - o general hábil conqui
 
 Um exército vitorioso ganha antes de ter deflagrado a batalha; um exército fadado à derrota combate na esperança de ganhar.
 
-Aqueles que são zelosos na arte da guerra cultivam o Tao e aderem à sua doutrina; são, portanto, capazes de formular políticas de vitória.
+Aqueles que são zelosos na arte da guerra cultivam o *Tao* e aderem à sua doutrina; são, portanto, capazes de formular políticas de vitória.
 
 Eles não permitem que as tropas mostrem uma confiança demasiado cega, uma confiança que degenera em presunção. As tropas que sonham com a vitória são tímidas, presunçosas ou debilitadas pela preguiça. Ao contrário, aquelas que, sem pensar na vitória, exigem o combate, são tropas enrijecidas no trabalho, aguerridas, destinadas a vencer.
 
@@ -575,9 +572,15 @@ Sun Tzu diz:
 
 > Comandar muitos é o mesmo que comandar poucos. Tudo é uma questão de organização. Controlar muitos ou poucos é uma mesma e única coisa. É apenas uma questão de formação e sinalizações.
 
-Lembra os nomes de todos os oficiais e subalternos. Inscreve-os num catálogo, anotando-lhes o talento e a capacidade individuais, a fim de aproveitar o potencial de cada um, quando tiveres oportunidade. Age de tal forma que todos os que deves comandar estejam persuadidos que teu principal cuidado é preservá-los de toda desgraça.
+Lembra os nomes de todos os oficiais e subalternos. Inscreve-os num catálogo, anotando-lhes o talento e a capacidade individuais, a fim de aproveitar o potencial de cada um, quando tiveres oportunidade.
 
-As tropas que farás avançar contra o inimigo devem ser como pedras que arremetes contra ovos. De ti até o inimigo, não deve haver outra diferença senão a do forte ao fraco, do cheio ao vazio.
+Age de tal forma que todos os que deves comandar estejam persuadidos que teu principal cuidado é preservá-los de toda desgraça. As tropas que farás avançar contra o inimigo devem ser como pedras que arremetes contra ovos.
+
+De ti até o inimigo, **não deve haver outra diferença** senão a do forte ao fraco, do cheio ao vazio.
+
+---
+
+## Forças diretas e indiretas
 
 A certeza de sustentar o ataque do inimigo sem sofrer uma derrota baseia-se na combinação de forças diretas e indiretas.
 
@@ -585,19 +588,34 @@ Utiliza forças diretas para desfechar a batalha, e forças indiretas para conso
 
 Ataca a descoberto, mas vence em sigilo. Eis, em poucas palavras, em que consiste a habilidade e a perfeição do comando das tropas. As luzes e as trevas, o aparente e o secreto: eis toda a arte. Aqueles que a possuem assemelham-se ao céu e à terra, cujos movimentos nunca são aleatórios.
 
-Assemelham-se aos caudais e aos mares inexauríveis. Mesmo mergulhados nas trevas da morte, podem revi ver. Como o sol e a lua, eles têm um tempo para aparecer, e um tempo para desaparecer. Como as quatro estações, revestem-se de mil nuanças. Só há cinco notas musicais, mas quem jamais ouviu todas as melodias que podem resultar de sua combinação? Só há cinco cores primárias, mas quem jamais viu o espetáculo de todas as cores matizadas? Só há cinco paladares, mas deles podem resultar infinitos sabores.
+**Em suma:**
 
-2 Direta: fixar e distrair. Indireta: irromper onde o golpe não é previsto.
+- *Direta:* fixar e distrair.
+- *Indireta:* irromper onde o golpe não é previsto.
+
+---
+
+## Características da batalha
+
+### Ciclicidade
+
+Assemelham-se aos caudais e aos mares inexauríveis. Mesmo mergulhados nas trevas da morte, podem reviver. Como o sol e a lua, eles têm um tempo para aparecer, e um tempo para desaparecer. Como as quatro estações, revestem-se de mil nuanças.
+
+- Só há cinco notas musicais, mas quem jamais ouviu todas as melodias que podem resultar de sua combinação?
+- Só há cinco cores primárias, mas quem jamais viu o espetáculo de todas as cores matizadas?
+- Só há cinco paladares, mas deles podem resultar infinitos sabores.
 
 Quem jamais experimentou todos?
 
-Na arte militar, e na do bom comando das tropas, há apenas duas espécies de forças. Suas combinações, entretanto, são ilimitadas. Ninguém pode abarcá-Ias. Essas forças interagem. Assemelham-se, na prática, a uma cadeia de operações interligadas, como anéis múltiplos, ou como a roda em movimento, que não se sabe onde principia nem também onde termina.
+Na arte militar, e na do bom comando das tropas, há apenas duas espécies de forças. Suas combinações, entretanto, são **ilimitadas**. Ninguém pode abarcá-Ias. Essas forças interagem. Assemelham-se, na prática, a uma cadeia de operações interligadas, como anéis múltiplos, ou como a roda em movimento, que não se sabe onde principia nem também onde termina.
 
-Na arte militar, cada operação particular tem partes que exigem a luz do dia, e outras que pedem as trevas do segredo. Não posso determiná-Ias de antemão. Só as circunstâncias podem ditá-Ias. Opomos grandes blocos de pedra às corredeiras que queremos represar. Empregamos redes frágeis e miúdas para capturar pequenos pássaros. Entretanto, o caudal rompe algumas vezes seus diques, após tê-Ios minado aos poucos, e os pássaros, as peias que os aprisionam, à força de se debaterem.
+### Peculiariedade
+
+Na arte militar, cada operação particular tem partes que **exigem a luz do dia**, e outras que **pedem as trevas do segredo**. Não posso determiná-Ias de antemão. Só as circunstâncias podem ditá-Ias. Opomos grandes blocos de pedra às corredeiras que queremos represar. Empregamos redes frágeis e miúdas para capturar pequenos pássaros. Entretanto, o caudal rompe algumas vezes seus diques, após tê-Ios minado aos poucos, e os pássaros, as peias que os aprisionam, à força de se debaterem.
 
 É por seu ímpeto que a água das torrentes corrói os rochedos. É regulando a distância que o falcão se orienta para estraçalhar a presa.
 
-Possuem verdadeiramente a arte de bem comandar aqueles que souberam e sabem potencializar sua força, que adquiriram uma autoridade ilimitada, que não se deixam abater por nenhum acontecimento, por mais desagradável que seja; que nunca agem com precipitação; que se conduzem, mesmo quando surpreendidos, com o sangue-frio que têm habitualmente nas ações meditadas e nos casos previstos antecipadamente, e agem sempre com a rapidez, fruto da habilidade, aliada a uma longa experiência.
+Possuem verdadeiramente a arte de bem comandar aqueles que souberam e sabem **potencializar sua força**, que adquiriram uma autoridade ilimitada, que não se deixam abater por nenhum acontecimento, por mais desagradável que seja; que nunca agem com precipitação; que se conduzem, mesmo quando surpreendidos, com o sangue-frio que têm habitualmente nas ações meditadas e nos casos previstos antecipadamente, e agem sempre com a rapidez, fruto da habilidade, aliada a uma longa experiência.
 
 Assim, o ímpeto de quem é hábil na arte da guerra é irrefreável, e seu ataque é regulado com precisão.
 
@@ -624,6 +642,8 @@ Age de forma que o inimigo seja, entre tuas mãos, como uma pedra redonda que te
 Sun Tzu diz:
 
 > Uma das tarefas essenciais que deves realizar antes do combate é escolher criteriosamente o terreno do campo de batalha. Para isso, é preciso agir rápido. Não permitas que o inimigo tome a dianteira. Ocupa o terreno antes que ele tenha tempo de te reconhecer, antes mesmo que ele possa estar ciente de tua marcha. Qualquer negligência nesse sentido pode ter conseqüências nefastas. Em geral, só há desvantagem em ocupar o terreno depois do adversário.
+
+#### O inimigo como potencial aliado
 
 O comandante de um exército não deve se fiar em ninguém para uma escolha de tal relevância. Ele deve fazer algo mais. Se for verdadeiramente hábil, escolherá tanto o próprio local do acampamento quanto controlará todos os movimentos do inimigo.
 
